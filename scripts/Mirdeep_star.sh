@@ -33,36 +33,47 @@ if [ -z "$adaptor" ];
 		echo "Adaptor sequence $adaptor will be used for adaptor trimming."
 fi
 
+echo "The reference  $MD_INDEX will be used for sequence alignment."
 cd $REF_DIR
 
-for file in $SEQ_DIR/* ; do		
-	if ! [ -d "$file" ]; then
-		if ! [[ $file =~ \.gz$ ]]; # check file extension if fastq.gz or fq.gz 
-		then
-			echo "Aligning $file with human reference genome...."
-					
-			java -jar -Xmx8g MD.jar -g $MD_INDEX -a $adaptor -t 17 -l 24 -p 20 -m 101 -r 5 -s -20 $file
-			echo "$file alignment is complete"
-		else
-			echo "Input $file is in compressed format. Uncompressing the $file...."
-			if [[ $file =~ \.fq.gz$ ]];
-			then
-				basename=$(basename "$file" .fq.gz | cut -f1 -d '_')			
-			else
-				if [[ $file =~ \.fastq.gz$ ]];
-					then
-						basename=$(basename "$file" .fastq.gz | cut -f1 -d '_')					
-				fi
-			fi
-			
-			pigz -p 5 -f -k -d $file -c > $SEQ_DIR/$basename.fastq
-			echo "Uncompression is complete. Now Aligning $file with human reference genome...."
-			
-			java -jar -Xmx8g MD.jar -g $MD_INDEX -a $adaptor -t 17 -l 24 -p 20 -m 101 -r 5 -s -20 $SEQ_DIR/$basename.fastq
-			echo "$file alignment is complete"
-			rm $SEQ_DIR/$basename.fastq
+for file in $SEQ_DIR/*.fastq ; do		
+	
+	echo "Aligning $file with human reference genome...."					
+	java -jar -Xmx8g MD.jar -g $MD_INDEX -a $adaptor -t 17 -l 24 -p 20 -m 101 -r 5 -s -20 $file
+	echo "$file alignment is complete"
+	rm $SEQ_DIR/$basename.fastq
 
-		fi
-	fi		
 done
+
+
+# for file in $SEQ_DIR/* ; do		
+# 	if ! [ -d "$file" ]; then
+# 		if ! [[ $file =~ \.gz$ ]]; # check file extension if fastq.gz or fq.gz 
+# 		then
+# 			echo "Aligning $file with human reference genome...."
+					
+# 			java -jar -Xmx8g MD.jar -g $MD_INDEX -a $adaptor -t 17 -l 24 -p 20 -m 101 -r 5 -s -20 $file
+# 			echo "$file alignment is complete"
+# 		else
+# 			echo "Input $file is in compressed format. Uncompressing the $file...."
+# 			if [[ $file =~ \.fq.gz$ ]];
+# 			then
+# 				basename=$(basename "$file" .fq.gz | cut -f1 -d '_')			
+# 			else
+# 				if [[ $file =~ \.fastq.gz$ ]];
+# 					then
+# 						basename=$(basename "$file" .fastq.gz | cut -f1 -d '_')					
+# 				fi
+# 			fi
+			
+# 			pigz -p 5 -f -k -d $file -c > $SEQ_DIR/$basename.fastq
+# 			echo "Uncompression is complete. Now Aligning $file with human reference genome...."
+			
+# 			java -jar -Xmx8g MD.jar -g $MD_INDEX -a $adaptor -t 17 -l 24 -p 20 -m 101 -r 5 -s -20 $SEQ_DIR/$basename.fastq
+# 			echo "$file alignment is complete"
+# 			rm $SEQ_DIR/$basename.fastq
+
+# 		fi
+# 	fi		
+# done
 
