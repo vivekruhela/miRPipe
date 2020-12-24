@@ -71,7 +71,7 @@ RUN unzip -o $HOME/Tools/bowtie-1.2.3-linux-x86_64.zip -d $HOME/Tools
 
 # Install Mirdeep* (v38) and miRBase_v22
 RUN wget --content-disposition  https://sourceforge.net/projects/mirdeepstar/files/MDS_command_line_v38.zip/download -O $HOME/Tools/MDS_command_line_v38.zip && unzip -o $HOME/Tools/MDS_command_line_v38.zip -d $HOME/Tools
-RUN wget --content-disposition  https://sourceforge.net/projects/mirdeepstar/files/Index_files/hg38.zip -P $HOME/Tools && unzip -o $HOME/Tools/hg38.zip -d $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome
+RUN wget --content-disposition  https://sourceforge.net/projects/mirdeepstar/files/Index_files/hg38.zip/download -O $HOME/Tools/hg38.zip && unzip -o $HOME/Tools/hg38.zip -d $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome
 RUN rm -r $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg19
 RUN rm $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/*
 RUN wget --content-disposition  ftp://mirbase.org/pub/mirbase/CURRENT/hairpin.fa.gz -P $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase
