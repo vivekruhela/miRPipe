@@ -105,8 +105,8 @@ WORKDIR $HOME
 
 
 # Download BBMap Source Codes
-RUN wget https://sourceforge.net/projects/bbmap/files/BBMap_38.73.tar.gz/download -P $HOME/Tools
-RUN tar xvzf $HOME/Tools/download -C $HOME/Tools && rm $HOME/Tools/download
+RUN wget https://sourceforge.net/projects/bbmap/files/latest/download -O $HOME/Tools/bbmap.tar.gz
+RUN tar xvzf $HOME/Tools/bbmap.tar.gz -C $HOME/Tools && rm $HOME/Tools/bbmap.tar.gz
 
 # Install Firefox, geckodriver
 
