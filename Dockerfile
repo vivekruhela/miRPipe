@@ -116,6 +116,22 @@ RUN add-apt-repository -y ppa:mozillateam/firefox-next
 RUN apt-get update && apt-get install -y firefox
 RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz && tar zxvf geckodriver-v0.26.0-linux64.tar.gz
 
+# Download Infernal for short RNA alignment
+RUN wget http://eddylab.org/infernal/infernal-1.1.4.tar.gz -P $HOME/Tools
+RUN tar zxf $HOME/Tools/infernal-1.1.4.tar.gz -C $HOME/Tools
+WORKDIR $HOME/Tools/infernal-1.1.4
+RUN ./configure
+RUN make && make check && make install
+WORKDIR $HOME
+
+# Download Rfam database and adding the database into rna-tools configuration file
+RUN wget ftp://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/Rfam.cm.gz -P $HOME/refs
+RUN gunzip $HOME/refs/Rfam.cm.gz
+RUN cmpress $HOME/refs/Rfam.cm
+RUN awk '{ if (NR == 9) print "RFAM_DB_PATH = \"~/refs/Rfam.cm\""; else print $0}' ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config.py > ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config1.py
+RUN mv ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config1.py ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config.py
+
+
 # Clean-ups
 RUN rm $HOME/Tools/*.zip && rm $HOME/Tools/*.gz
 RUN rm $HOME/*.gz
