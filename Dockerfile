@@ -5,14 +5,14 @@ USER root
 MAINTAINER Vivek Ruhela <vivekr@iiitd.ac.in>
 
 # Copy the application folder inside the container
-ADD . /MiRPipe_Docker
+ADD . /miRPipe
 
 # Set the default directory where CMD will execute
-WORKDIR /MiRPipe_Docker
+WORKDIR /miRPipe
 
 # Set environment variable
 # ENV http_proxy 'proxy.com'
-ENV HOME /MiRPipe_Docker
+ENV HOME /miRPipe
 ENV LC_ALL C
 ENV DEBIAN_FRONTEND noninteractive
 ENV DEBCONF_NONINTERACTIVE_SEEN true
