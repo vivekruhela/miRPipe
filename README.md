@@ -1,8 +1,8 @@
-# MiRPipe: Open source RNA-Seq bioinformatics analysis docker for identification of miRNAs and piRNAs
+# miRPipe: Open source RNA-Seq bioinformatics analysis docker for identification of miRNAs and piRNAs
 
 ![Graphical Abstract of miRPipe](miRPipe_Flowchart.png)
 
-MiRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinformatics analysis docker. The aim of this docker is to help researchers perform miRNA identification and piRNA identification independently and with much ease.
+miRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinformatics analysis docker. The aim of this docker is to help researchers perform miRNA identification and piRNA identification independently and with much ease.
 
 ## Running the RNA-SEQ Pipeline
 
@@ -40,7 +40,7 @@ System Requirements:
 
 System Requireents:
 
-• 64bit, 8.00 GB RAM [OS version : Ubuntu 18.04 as MiRPipe has been developed in Ubuntu:18.04]
+• 64bit, 8.00 GB RAM [OS version : Ubuntu 18.04 as miRPipe has been developed in Ubuntu:18.04]
 
 ### Prerequisites
 
@@ -95,7 +95,7 @@ To run the docker with administration rights, run the following command at termi
 docker run -p 8880:8888 \
            -e 'PASSWORD=password' \
            -e 'USE_HTTP=1' \
-           -v /host/path/to/data:/MirPipe_Docker/data docker.io/vivekruhela/mirpipe
+           -v /host/path/to/data:/miRPipe/data docker.io/vivekruhela/mirpipe
 
 ```
 
@@ -109,12 +109,12 @@ sudo docker run - Runs the docker with administrative rights.
 
 -e 'USE_HTTP=1' - To run in HTTP, we use USE_HTTP environment variable. Setting it to a non-zero value enables HTTP.
 
--v  /host/path/to/data:/MirPipe_Docker/data - Mount the host folder which contains raw fastq sequence file to data folder of MiRPipe docker
+-v  /host/path/to/data:/MirPipe_Docker/data - Mount the host folder which contains raw fastq sequence file to data folder of miRPipe docker
 
 ```
 Example:
 
-docker run -p 8880:8888 -e 'PASSWORD=password' -e 'USE_HTTP=1' -v /home/vivek/Small_fastq:/MiRPipe_Docker/data vivekruhela/mirpipe
+docker run -p 8880:8888 -e 'PASSWORD=password' -e 'USE_HTTP=1' -v /home/vivek/Small_fastq:/miRPipe/data vivekruhela/mirpipe
 ```
 After successfully running the docker execution command, open firefox browser, and type the follwing in the URL:
 
