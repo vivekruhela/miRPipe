@@ -75,6 +75,29 @@ docker pull docker.io/vivekruhela/mirpipe
 
 ```
 
+```diff
+- For reviewers
+```
+The following login credentials and command can be used to pull the private docker image. This docker image will converted into public repository after successfully testing by reviewrs and miRPipe pipeline publication.
+
+```diff
++ User ID: mirpipedockertest
++ Password : iiitdelhi123
+
+Commands: 
+1. If oyu are already logged into your docker accout then logout with the help of following account:
+
+docker logout 
+
+2. First you need to login to docker hub using above credentials with the help of following command.
+
+docker login -u mirpipedockertest
+
+3. After successful login. you can pull the miRPipe docker image using following command:
+
+docker pull docker.io/vivekruhela/mirpipe
+```
+
 # Execute docker
 
 Before running docker, prepare the file `sample_list.csv` in the data directory in the following format:
@@ -87,15 +110,12 @@ Sample_C   Sample_C.fastq.gz    treated
    .              .                .
    .              .                .
 ```
-In `sample_list.csv`, all the sample name should be sorted in ascending sorting order. This is necessary because the final count file generated at the end of pipeline (and before differential expression analysis) have all the columns sorted in alpha-numerically ascending order. The order of columns in final count matrix generated in the end of pipeline and order in samples in `sample_list.csv` must be same in order to conduct correct differential expression analysis.
+In `sample_list.csv`, all the sample name should be sorted in alphanumerically. This is necessary because the final count file generated at the end of pipeline (and before differential expression analysis) have all the columns sorted in alpha-numerically ascending order. The order of columns in final count matrix generated in the end of pipeline and order in samples in `sample_list.csv` must be same in order to conduct correct differential expression analysis.
 
 To run the docker with administration rights, run the following command at terminal.
 
 ```
-docker run -p 8880:8888 \
-           -e 'PASSWORD=password' \
-           -e 'USE_HTTP=1' \
-           -v /host/path/to/data:/miRPipe/data docker.io/vivekruhela/mirpipe
+docker run -p 8880:8888 -e 'PASSWORD=password' -e 'USE_HTTP=1' -v /host_path_to_data:/miRPipe/data docker.io/vivekruhela/mirpipe
 
 ```
 
@@ -109,10 +129,10 @@ sudo docker run - Runs the docker with administrative rights.
 
 -e 'USE_HTTP=1' - To run in HTTP, we use USE_HTTP environment variable. Setting it to a non-zero value enables HTTP.
 
--v  /host/path/to/data:/MirPipe_Docker/data - Mount the host folder which contains raw fastq sequence file to data folder of miRPipe docker
+-v  /host/path/to/data:/miRPipe/data - Mount the host folder which contains raw fastq sequence file to data folder of miRPipe docker
 
-```
-Example:
+```diff
++ Example:
 
 docker run -p 8880:8888 -e 'PASSWORD=password' -e 'USE_HTTP=1' -v /home/vivek/Small_fastq:/miRPipe/data vivekruhela/mirpipe
 ```
