@@ -85,7 +85,7 @@ The following login credentials and command can be used to pull the private dock
 + Password : iiitdelhi123
 
 Commands: 
-1. If oyu are already logged into your docker accout then logout with the help of following account:
+1. If you are already logged into your docker accout then logout with the help of following account:
 
 docker logout 
 
