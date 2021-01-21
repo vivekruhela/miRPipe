@@ -69,6 +69,12 @@ RUN R -e 'BiocManager::install(c("DESeq2","ShortRead","Biostrings"))'
 RUN wget https://sourceforge.net/projects/bowtie-bio/files/bowtie/1.2.3/bowtie-1.2.3-linux-x86_64.zip -P $HOME/Tools
 RUN unzip -o $HOME/Tools/bowtie-1.2.3-linux-x86_64.zip -d $HOME/Tools
 
+# Download hg38 and building bowtie index
+RUN mkdir -p $HOME/refs/hg38 
+RUN wget --content-disposition http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz -O $HOME/refs/hg38/hg38.fa.gz
+RUN pigz -p 5 -d -f $HOME/refs/hg38/hg38.fa.gz
+RUN $HOME/Tools/bowtie-1.2.3-linux-x86_64/bowtie-build --threads 8 $HOME/refs/hg38/hg38.fa $HOME/refs/hg38/hg38
+
 # Install Mirdeep* (v38) and miRBase_v22
 RUN wget --content-disposition  https://sourceforge.net/projects/mirdeepstar/files/MDS_command_line_v38.zip/download -O $HOME/Tools/MDS_command_line_v38.zip && unzip -o $HOME/Tools/MDS_command_line_v38.zip -d $HOME/Tools
 RUN wget --content-disposition  https://sourceforge.net/projects/mirdeepstar/files/Index_files/hg38.zip/download -O $HOME/Tools/hg38.zip && unzip -o $HOME/Tools/hg38.zip -d $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome
