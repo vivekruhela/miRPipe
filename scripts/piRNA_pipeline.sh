@@ -10,15 +10,14 @@ REF_DIR=$HOME_DIR/refs
 if [ -d "$REF_DIR/hg19" ]; then 
      echo "Selecting hg19 as reference genome."
      BWT_INDEX=$REF_DIR/hg19/hg19; 
-     wget --content-disposition http://www.pirnadb.org/download/downloadarchive/gff_gtf/pirnadb.v1_7_5.hg19.gff3.gz -P $REF_DIR/pirnadb
-     pigz -p 4 -k -d $REF_DIR/pirnadb/pirnadb.v1_7_5.hg19.gff3.gz
-     GFF_FILE=$REF_DIR/pirnadb/pirnadb.v1_7_5.hg19.gff3
+     pigz -p 4 -f -k -d $REF_DIR/pirnadb/pirnadb.hg19.gff3.gz
+     GFF_FILE=$REF_DIR/pirnadb/pirnadb.hg19.gff3
 
 else
     if [ -d "$REF_DIR/hg38" ]; then 
          echo "Selecting hg38 as reference genome."
          BWT_INDEX=$REF_DIR/hg38/hg38; 
-         pigz -p 4 -k -d $REF_DIR/pirnadb/pirnadb.hg38.gff3.gz
+         pigz -p 4 -f -k -d $REF_DIR/pirnadb/pirnadb.hg38.gff3.gz
          GFF_FILE=$HOME_DIR/refs/pirnadb/pirnadb.hg38.gff3
          
      else
@@ -37,7 +36,7 @@ mkdir -p $SEQ_DIR/piRNA/pirna_counts
 for fq in $SEQ_DIR/fastq_24_31/*.fq.gz; do 
      basename=$(basename "$fq" .fq.gz)
      echo "Working on $basename"
-     pigz -p 4 -k -d $fq
+     pigz -p 4 -f -k -d $fq
      # Trimming reads having more than 10% bp with quality score less than 20
      cd $HOME_DIR/Tools/fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64
      ./fastq_quality_filter -q 20 -p 90 -Q33 -z \
