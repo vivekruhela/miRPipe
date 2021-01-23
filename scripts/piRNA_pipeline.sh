@@ -53,7 +53,7 @@ for fq in $SEQ_DIR/fastq_24_31/*.fq.gz; do
               -v 0 --norc -l 24 $SEQ_DIR/piRNA/$basename.fq.gz \
               -S $SEQ_DIR/piRNA/$basename"_bowtie".sam 
      samtools view -h -b $SEQ_DIR/piRNA/$basename"_bowtie".sam -o $SEQ_DIR/piRNA/$basename"_bowtie".bam
-     samtools sort -@ 8 $SEQ_DIR/piRNA/$basename"_bowtie".bam > $SEQ_DIR/piRNA/$basename"_bowtie_sorted".bam 
+     samtools sort -@ 8 -m 500M $SEQ_DIR/piRNA/$basename"_bowtie".bam > $SEQ_DIR/piRNA/$basename"_bowtie_sorted".bam 
      
      echo "****Sequence alignemnt of $basename is complete"
      # Deleting the temporary files
