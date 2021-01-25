@@ -2,7 +2,9 @@
 
 ![Graphical Abstract of miRPipe](Figures/miRPipe_Flowchart.png)
 
-In synthetic data experiments, the last step in miRPipe pipeline (differential expression analysis) is not included because we do not know priorly that which sample is tumor (treated) and which sample is normal (untreated).
+Figure-1: In the pipeline flowchart, there are 9 steps. In synthetic data experiments, the last step (step-9: differential expression analysis) is not included. However in the CLL data experiments, we have included the last step where both treated and untreated samples are available.
+
+## Introduction
 
 miRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinformatics analysis docker. The aim of this docker is to help researchers perform miRNA identification and piRNA identification independently and with much ease.
 
@@ -170,7 +172,9 @@ For demonstration purpose, we are running these experiments only one time for ea
 The accuracy and F1-score of 1 run is close to the average accuracy and F1-score shown in the table-4 of the main manuscript.
 
 ### Data Generation for Synthetic Data Experiments
-We have used [miRSim](https://github.com/vivekruhela/miRSim)[1] tool to generate the synthetic data. The commands for synthetic data generation are as follows:
+We have used [miRSim](https://github.com/vivekruhela/miRSim)[1] tool to generate the synthetic data. The sample data files generated for demo are available in `Demo_data` directory. 
+
+For the sake of completion, we have also provided the commands below for synthetic data generation using miRSim tool in case any user would like to generate synthatic data on their own.
 
 ```diff
 - Data generation for 50K Read Depth Synthetic Data Experiments
@@ -227,6 +231,7 @@ python miRSim.py -i refs/piRNAdb.hsa.v1_7_5.fa -n pirna2.fastq.gz -g pirna2.csv 
 
 zcat mirna2.fastq.gz novel_mirna2.fastq.gz pirna2.fastq.gz | gzip > synthetic_data.fastq.gz
 ```
+
 
 The miRPipe pipeline performance for 1 run of synthetic data experiments are as follows:
 
