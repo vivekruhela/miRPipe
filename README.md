@@ -2,7 +2,7 @@
 
 ![Graphical Abstract of miRPipe](Figures/miRPipe_Flowchart.png)
 
-Figure-1: In the pipeline flowchart, there are 9 steps. In synthetic data experiments, the last step (step-9: differential expression analysis) is not included. However in the CLL data experiments, we have included the last step where both treated and untreated samples are available.
+*Figure-1: In the pipeline flowchart, there are 9 steps. In synthetic data experiments, the last step (step-9: differential expression analysis) is not included. However in the CLL data experiments, we have included the last step where both treated and untreated samples are available.*
 
 ## Introduction
 
@@ -66,6 +66,7 @@ miRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinfor
 |----- notebook.sh
 |----- README.md
 |----- requirements.txt
+|----- Tutorial.md
 
 *: This notebook will be used only for synthetic data experiments.
 ```
@@ -165,6 +166,8 @@ localhost:8880/mirpipe
 Jupyter Notebook environment will be opened in Firefox browser.
 Enter the PASSWORD mentioned in above command, by default it is set to- password
 
+## Tutorial
+We have also developed the tutorial [Tutorial.md](Tutorial.md) with screenshots to help users who are running this docker first time.
 
 ## (A) Synthetic Data Experiments
 
@@ -237,7 +240,7 @@ The miRPipe pipeline performance for 1 run of synthetic data experiments are as 
 
 | (A) 50K Read Depth | (B) 0.1M Read Depth | (C) 1M Read Depth |
 | :------------- | :------------- |:------------- |
-| <img src="Figures/50K_overall.png" width="210" height="210"/> | <img src="Figures/1L_overall.png" width="210" height="210"/> | <img src="Figures/10L_overall.png" width="210" height="210"/>|
+| <img src="Figures/50K_overall.png" width="300" height="300"/> | <img src="Figures/1L_overall.png" width="300" height="300"/> | <img src="Figures/10L_overall.png" width="300" height="300"/>|
 
 [//]: <> (#### For 50K Read Depth Synthetic Data Experiments)
 [//]: <> (<img src="Figures/50K_overall.png" width="200" height="200"/> <img src="Figures/1L_overall.png" width="200" height="200"/><img src="Figures/10L_overall.png" width="200" height="200"/>)
