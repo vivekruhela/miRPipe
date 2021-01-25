@@ -1,0 +1,5 @@
+,known_mirna,novel_mirna,pirna,other
+known_mirna,15273.0,0.0,0.0,0.0
+novel_mirna,0.0,9287.0,0.0,0.0
+pirna,0.0,0.0,9479.0,0.0
+other,4727.0,713.0,521.0,60000.0
