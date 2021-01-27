@@ -67,6 +67,7 @@ for fq in $SEQ_DIR/fastq_24_31/*.fq.gz; do
      bedtools annotate -counts -i $GFF_FILE -files $SEQ_DIR/piRNA/pirna_counts/$basename.bed > $SEQ_DIR/piRNA/pirna_counts/$basename"_pirna_counts".txt
      pigz -p 4 $SEQ_DIR/piRNA/pirna_counts/$basename.bed
      rm $SEQ_DIR/piRNA/$basename"_bowtie_sorted".bam    
+     rm $SEQ_DIR/fastq_24_31/$basename.fq
      echo "****Mapped sequence quantification and annotation of $basename is complete"
 
 done
