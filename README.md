@@ -115,7 +115,7 @@ docker pull docker.io/vivekruhela/mirpipe
 The following login credentials and command can be used to pull the private docker image. This docker image will converted into public repository after successfully tested by reviewers.
 
 ```diff
-+ User ID: mirpipedockertest
++ User ID: vivekruhela
 + Password : iiitdelhi123
 
 Commands:
