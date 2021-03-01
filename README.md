@@ -125,7 +125,7 @@ docker logout
 
 2. First you need to login to docker hub using above credentials with the help of following command.
 
-docker login -u mirpipedockertest
+docker login -u vivekruhela
 
 3. After successful login. you can pull the miRPipe docker image using following command:
 
