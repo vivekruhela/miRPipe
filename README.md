@@ -292,7 +292,7 @@ The miRPipe pipeline generates total 9 output files:
 
 ## References
 
-1. miRSim: Seed-based RNA-Seq Synthetic Sequence Simulator
+1. Ruhela, V., Gupta, R., Krishnamachari, S., Ahuja, G., Gupta, A.:vivekruhela/miRSim v1.0.0 (Version v1.0.0). Zenodo.https://doi.org/10.5281/zenodo.4560585 (2021
 2. Kaur, Gurvinder, et al. "RNA-Seq profiling of deregulated miRs in CLL and their impact on clinical outcome." Blood cancer journal 10.1 (2020): 1-9.
 
 ## 7. Authors
