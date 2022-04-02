@@ -41,7 +41,9 @@ RUN apt-get update -qq && apt-get install -y \
       fastqc \
       pandoc \
       libxml2-dev \
-      samtools
+      samtools \
+      software-properties-common \
+      && apt-get update -qq
 
 # Install additional python packages
 RUN pip install --upgrade pip
