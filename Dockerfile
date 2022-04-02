@@ -40,7 +40,10 @@ RUN apt-get update -qq && apt-get install -y \
       bedtools \
       fastqc \
       pandoc \
-      samtools
+      libxml2-dev \
+      samtools \
+      software-properties-common \
+      && apt-get update -qq
 
 # Install additional python packages
 RUN pip install --upgrade pip
@@ -54,16 +57,12 @@ RUN pip3 install --user --upgrade pandoc
 
 # Install R, DESeq2
 
-RUN apt-get update && apt-get -y install --no-install-recommends --no-install-suggests \
-       ca-certificates software-properties-common gnupg2 gnupg1 \
-      && apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9 \
-      && add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran35/' \
-      && apt-get -y install r-base 
+RUN sudo apt-get update && apt-get -y install gdebi-core && curl -O https://cdn.rstudio.com/r/ubuntu-2004/pkgs/r-4.1.3_1_amd64.deb && gdebi -n r-4.1.3_1_amd64.deb
 
-RUN apt-get install --yes libxml2-dev
+RUN ln -sfn /opt/R/4.1.3/bin/R /usr/local/bin/R && ln -sfn /opt/R/4.1.3/bin/R /usr/bin/R && ln -sfn /opt/R/4.1.3/bin/Rscript /usr/local/bin/Rscript
 RUN echo 'local({r <- getOption("repos"); r["CRAN"] <- "http://cran.rstudio.com"; options(repos=r)})' > ~/.Rprofile
 RUN R -e 'install.packages("BiocManager")'
-RUN R -e 'BiocManager::install(c("DESeq2","ShortRead","Biostrings"))'
+RUN R -e 'BiocManager::install("DESeq2",dependencies=TRUE)'
 
 # Download Bowtie Source Codes
 RUN wget https://sourceforge.net/projects/bowtie-bio/files/bowtie/1.2.3/bowtie-1.2.3-linux-x86_64.zip -P $HOME/Tools
@@ -80,11 +79,11 @@ RUN wget --content-disposition  https://sourceforge.net/projects/mirdeepstar/fil
 RUN wget --content-disposition  https://sourceforge.net/projects/mirdeepstar/files/Index_files/hg38.zip/download -O $HOME/Tools/hg38.zip && unzip -o $HOME/Tools/hg38.zip -d $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome
 RUN rm -r $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg19
 RUN rm $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/*
-RUN wget --content-disposition  ftp://mirbase.org/pub/mirbase/CURRENT/hairpin.fa.gz -P $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase
+RUN wget --content-disposition  https://www.mirbase.org/ftp/CURRENT/hairpin.fa.gz -P $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase
 RUN pigz -p 5 -d $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/hairpin.fa.gz
-RUN wget --content-disposition  ftp://mirbase.org/pub/mirbase/CURRENT/mature.fa.gz -P $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase
+RUN wget --content-disposition  https://www.mirbase.org/ftp/CURRENT/mature.fa.gz -P $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase
 RUN pigz -p 5 -d $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/mature.fa.gz
-RUN wget --content-disposition  ftp://mirbase.org/pub/mirbase/CURRENT/genomes/hsa.gff3 -P $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase
+RUN wget --content-disposition  https://www.mirbase.org/ftp/CURRENT/genomes/hsa.gff3 -P $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase
 RUN mv $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/hsa.gff3 $HOME/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/knownMiR.gff3
 
 # Download Trim_Galore
@@ -120,7 +119,7 @@ RUN tar xvzf $HOME/Tools/bbmap.tar.gz -C $HOME/Tools && rm $HOME/Tools/bbmap.tar
 
 RUN add-apt-repository -y ppa:mozillateam/firefox-next
 RUN apt-get update && apt-get install -y firefox
-RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz && tar zxvf geckodriver-v0.26.0-linux64.tar.gz
+RUN wget https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-linux64.tar.gz && tar zxvf geckodriver-v0.30.0-linux64.tar.gz
 
 # Download Infernal for short RNA alignment
 RUN wget http://eddylab.org/infernal/infernal-1.1.4.tar.gz -P $HOME/Tools
