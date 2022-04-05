@@ -133,13 +133,14 @@ WORKDIR $HOME
 RUN wget ftp://ftp.ebi.ac.uk/pub/databases/Rfam/CURRENT/Rfam.cm.gz -P $HOME/refs
 RUN gunzip $HOME/refs/Rfam.cm.gz
 RUN cmpress $HOME/refs/Rfam.cm
-RUN awk '{ if (NR == 9) print "RFAM_DB_PATH = \"~/refs/Rfam.cm\""; else print $0}' ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config.py > ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config1.py
-RUN mv ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config1.py ~/.local/lib/python3.8/site-packages/rna_tools/rna_tools_config.py
+RUN awk '{ if (NR == 9) print "RFAM_DB_PATH = \"~/refs/Rfam.cm\""; else print $0}' ~/.local/lib/python3.9/site-packages/rna_tools/rna_tools_config.py > ~/.local/lib/python3.9/site-packages/rna_tools/rna_tools_config1.py
+RUN mv ~/.local/lib/python3.9/site-packages/rna_tools/rna_tools_config1.py ~/.local/lib/python3.9/site-packages/rna_tools/rna_tools_config.py
 
 
 # Clean-ups
 RUN rm $HOME/Tools/*.zip && rm $HOME/Tools/*.gz
 RUN rm $HOME/*.gz
+RUN rm $HOME/*.deb
 
 # Expose port
 EXPOSE 8888
@@ -147,6 +148,8 @@ ENV LC_ALL C.UTF-8
 ENV LANG C.UTF-8
 
 ADD notebook.sh /
+
+RUN chmod +x /notebook.sh
 
 # Start notebook server
 CMD ["/notebook.sh"]
