@@ -20,9 +20,9 @@ for fq in $SEQ_DIR/*.fastq.gz $SEQ_DIR/*.fq.gz; do
 	
 	if [ -z "$adaptor" ]; 
 	then
-		./trim_galore $fq --length 17 -o $SEQ_DIR/trimmed_fastq --gzip --fastqc
+		./trim_galore $fq --length 17 -o $SEQ_DIR/trimmed_fastq --gzip --fastqc -j 6
 	else
-		./trim_galore --length 17 -a $adaptor $fq -o $SEQ_DIR/trimmed_fastq --gzip --fastqc
+		./trim_galore --length 17 -a $adaptor $fq -o $SEQ_DIR/trimmed_fastq --gzip --fastqc -j 6
 	fi
     echo "-----------Adapter Trimming of $fq is complete-----------"
 done
