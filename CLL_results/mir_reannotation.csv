@@ -1,387 +1,299 @@
 Old_miR_ID,New_miR_ID,Family,Relation,sequence
 novelMiR_2,novelMiR_1,novelMiR_1,"Same Seed, Xseed and loc",ctcctgccctccttgctgtag
-novelMiR_178,novelMiR_3-1,novelMiR_3,Paralogues,tgattttgtagctgtacac
-novelMiR_177_1,novelMiR_6-1,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_166_1,novelMiR_6-2,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_349_1,novelMiR_6-3,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_249,novelMiR_6-4,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_379_1,novelMiR_6-3,novelMiR_6-3,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_379_1,novelMiR_6-5,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_139,novelMiR_6-6,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_359,novelMiR_6-7,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_86,novelMiR_6-8,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_268,novelMiR_6-7,novelMiR_6-7,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_268,novelMiR_6-9,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_53_1,novelMiR_6-10,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_167,novelMiR_6-11,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_109_1,novelMiR_6-11,novelMiR_6-11,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_109_1,novelMiR_6-12,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_143,novelMiR_6-13,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_128,novelMiR_6-14,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_157,novelMiR_6-15,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_183,novelMiR_6-1,novelMiR_6-1,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_183,novelMiR_6-16,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_129,novelMiR_6-17,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_202_1,novelMiR_6-18,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_441,novelMiR_6-19,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_116_1,novelMiR_6-1,novelMiR_6-1,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_116_1,novelMiR_6-20,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_132_1,novelMiR_6-18,novelMiR_6-18,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_132_1,novelMiR_6-21,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_84_1,novelMiR_6-14,novelMiR_6-14,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_84_1,novelMiR_6-22,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_315_1,novelMiR_6-23,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_48_1,novelMiR_6-24,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_329_1,novelMiR_6-3,novelMiR_6-3,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_329_1,novelMiR_6-25,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_477,novelMiR_6-3,novelMiR_6-3,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_477,novelMiR_6-26,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_33_1,novelMiR_6-10,novelMiR_6-10,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_33_1,novelMiR_6-27,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_238_1,novelMiR_6-4,novelMiR_6-4,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_238_1,novelMiR_6-28,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_210,novelMiR_6-18,novelMiR_6-18,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_210,novelMiR_6-29,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_110_1,novelMiR_6-2,novelMiR_6-2,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_110_1,novelMiR_6-30,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_62_1,novelMiR_6-8,novelMiR_6-8,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_62_1,novelMiR_6-31,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_458,novelMiR_6-23,novelMiR_6-23,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_458,novelMiR_6-32,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_138,novelMiR_6-33,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_94_1,novelMiR_6-13,novelMiR_6-13,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_94_1,novelMiR_6-34,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_154_1,novelMiR_6-4,novelMiR_6-4,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_154_1,novelMiR_6-35,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_172,novelMiR_6-2,novelMiR_6-2,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_172,novelMiR_6-36,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_328,novelMiR_6-23,novelMiR_6-23,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_328,novelMiR_6-37,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_368_1,novelMiR_6-23,novelMiR_6-23,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_368_1,novelMiR_6-38,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_150,novelMiR_6-39,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_49,novelMiR_6-10,novelMiR_6-10,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_49,novelMiR_6-40,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_319,novelMiR_6-19,novelMiR_6-19,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_319,novelMiR_6-41,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_30_1,novelMiR_6-24,novelMiR_6-24,"Same Seed, Xseed and loc",aaaagtaatcgcagtttt
-novelMiR_30_1,novelMiR_6-42,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
-novelMiR_384,novelMiR_265_1-1,novelMiR_265_1,Paralogues,aaaagtaattgtggtttctgcc
-novelMiR_337_1,novelMiR_265_1-2,novelMiR_265_1,Paralogues,aaaagtaattgtggtttctgcc
+novelMiR_178,novelMiR_3_1,novelMiR_3,Paralogues,tgattttgtagctgtacac
+novelMiR_329_1,novelMiR_6_2,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_183,novelMiR_6_3,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_210,novelMiR_6_4,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_132_1,novelMiR_6_5,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_157,novelMiR_6_6,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_349_1,novelMiR_6_7,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_33_1,novelMiR_6_8,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_138,novelMiR_6_9,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_128,novelMiR_6_10,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_458,novelMiR_6_11,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_129,novelMiR_6_12,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_477,novelMiR_6_13,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_319,novelMiR_6_14,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_110_1,novelMiR_6_15,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_172,novelMiR_6_16,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_368_1,novelMiR_6_17,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_94_1,novelMiR_6_18,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_86,novelMiR_6_19,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_150,novelMiR_6_20,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_202_1,novelMiR_6_21,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_167,novelMiR_6_22,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_49,novelMiR_6_23,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_238_1,novelMiR_6_24,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_268,novelMiR_6_25,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_379_1,novelMiR_6_26,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_166_1,novelMiR_6_27,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_48_1,novelMiR_6_28,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_315_1,novelMiR_6_29,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_109_1,novelMiR_6_30,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_53_1,novelMiR_6_31,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_62_1,novelMiR_6_32,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_84_1,novelMiR_6_33,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_139,novelMiR_6_34,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_30_1,novelMiR_6_35,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_143,novelMiR_6_36,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_116_1,novelMiR_6_37,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_177_1,novelMiR_6_38,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_441,novelMiR_6_39,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_359,novelMiR_6_40,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_249,novelMiR_6_41,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_154_1,novelMiR_6_42,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_328,novelMiR_6_43,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_384,novelMiR_265_1_1,novelMiR_265_1,Paralogues,aaaagtaattgtggtttctgcc
+novelMiR_337_1,novelMiR_265_1_2,novelMiR_265_1,Paralogues,aaaagtaattgtggtttctgcc
 novelMiR_382,novelMiR_265_1,novelMiR_265_1,"Same Seed, Xseed and loc",aaaagtaattgtggtttctgcc
-novelMiR_488,novelMiR_265_1-2,novelMiR_265_1-2,"Same Seed, Xseed and loc",aaaagtaattgtggtttctgcc
-novelMiR_488,novelMiR_265_1-3,novelMiR_265_1,Paralogues,aaaagtaattgtggtttctgcc
-novelMiR_265_1,novelMiR_6a,novelMiR_6,Same Phylogenetic Tree,aaaagtaatcgcagtttt
-novelMiR_410,novelMiR_7-1,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_20,novelMiR_7-2,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_193,novelMiR_7-3,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_276,novelMiR_7-4,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_152,novelMiR_7-5,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_341,novelMiR_7-6,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_166,novelMiR_7-7,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_184,novelMiR_7-8,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_360,novelMiR_7-9,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_288,novelMiR_7-10,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_307_1,novelMiR_7-11,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_463,novelMiR_7-12,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_418,novelMiR_7-11,novelMiR_7-11,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_418,novelMiR_7-13,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_8,novelMiR_7-14,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_144,novelMiR_7-15,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_272,novelMiR_7-16,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_269,novelMiR_7-9,novelMiR_7-9,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_269,novelMiR_7-17,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_110,novelMiR_7-18,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_462,novelMiR_7-19,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_304,novelMiR_7-11,novelMiR_7-11,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_304,novelMiR_7-20,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_155,novelMiR_7-21,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_96,novelMiR_7-22,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_78,novelMiR_7-23,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_203,novelMiR_7-24,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_348_1,novelMiR_7-6,novelMiR_7-6,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_348_1,novelMiR_7-25,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_330,novelMiR_7-19,novelMiR_7-19,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_330,novelMiR_7-26,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_437,novelMiR_7-27,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_332,novelMiR_7-12,novelMiR_7-12,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_332,novelMiR_7-28,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_476,novelMiR_7-6,novelMiR_7-6,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_476,novelMiR_7-29,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_316,novelMiR_7-27,novelMiR_7-27,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_316,novelMiR_7-30,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_213,novelMiR_7-31,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_215,novelMiR_7-32,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_299,novelMiR_7-1,novelMiR_7-1,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_299,novelMiR_7-33,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_385,novelMiR_7-10,novelMiR_7-10,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_385,novelMiR_7-34,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_163,novelMiR_7-35,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_468,novelMiR_7-36,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_185,novelMiR_7-37,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_233,novelMiR_7-38,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_341_1,novelMiR_7-19,novelMiR_7-19,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_341_1,novelMiR_7-39,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_265,novelMiR_7-40,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_335,novelMiR_7-36,novelMiR_7-36,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_335,novelMiR_7-41,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_372,novelMiR_7-4,novelMiR_7-4,"Same Seed, Xseed and loc",caaaaatcgcaattacttt
-novelMiR_372,novelMiR_7-42,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_106,novelMiR_7-43,novelMiR_7,Paralogues,caaaaatcgcaattacttt
-novelMiR_367,novelMiR_15-1,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_52_1,novelMiR_15-2,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_96_1,novelMiR_15-3,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_145_1,novelMiR_15-3,novelMiR_15-3,"Same Seed, Xseed and loc",aaaaactgtgattacttttgca
-novelMiR_145_1,novelMiR_15-4,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_269_1,novelMiR_15-1,novelMiR_15-1,"Same Seed, Xseed and loc",aaaaactgtgattacttttgca
-novelMiR_269_1,novelMiR_15-5,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_104,novelMiR_15-6,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_28,novelMiR_15-7,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_71,novelMiR_15-8,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_147,novelMiR_15-3,novelMiR_15-3,"Same Seed, Xseed and loc",aaaaactgtgattacttttgca
-novelMiR_147,novelMiR_15-9,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_94,novelMiR_15-10,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_275,novelMiR_15-1,novelMiR_15-1,"Same Seed, Xseed and loc",aaaaactgtgattacttttgca
-novelMiR_275,novelMiR_15-11,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_44,novelMiR_15-12,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_70_1,novelMiR_15-6,novelMiR_15-6,"Same Seed, Xseed and loc",aaaaactgtgattacttttgca
-novelMiR_70_1,novelMiR_15-13,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_19_1,novelMiR_15-7,novelMiR_15-7,"Same Seed, Xseed and loc",aaaaactgtgattacttttgca
-novelMiR_19_1,novelMiR_15-14,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_46,novelMiR_15-2,novelMiR_15-2,"Same Seed, Xseed and loc",aaaaactgtgattacttttgca
-novelMiR_46,novelMiR_15-15,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_122,novelMiR_15-16,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_342,novelMiR_15-17,novelMiR_15,Paralogues,aaaaactgtgattacttttgca
-novelMiR_192,novelMiR_18-1,novelMiR_18,Paralogues,taggttatacaacataatg
-novelMiR_77,novelMiR_19a,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_58,novelMiR_19b,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_188,novelMiR_19c,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_40_1,novelMiR_19d,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_141,novelMiR_19e,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_120_1,novelMiR_19f,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_131_1,novelMiR_19g,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_207,novelMiR_19h,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_73,novelMiR_19i,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_82_1,novelMiR_19j,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_92_1,novelMiR_19k,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_77_1,novelMiR_19l,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_64,novelMiR_19m,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_68_1,novelMiR_19n,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_200_1,novelMiR_19o,novelMiR_19,Same Phylogenetic Tree,ttgcagactcactatgcacctgac
-novelMiR_15_1,novelMiR_23,novelMiR_23,"Same Seed, Xseed and loc",atcccacttctgacacca
-novelMiR_115,novelMiR_23-1,novelMiR_23,Paralogues,atcccacttctgacacca
-novelMiR_10_1,novelMiR_23,novelMiR_23,"Same Seed, Xseed and loc",atcccacttctgacacca
-novelMiR_8_1,novelMiR_23-2,novelMiR_23,Paralogues,atcccacttctgacacca
-novelMiR_5_1,novelMiR_23-3,novelMiR_23,Paralogues,atcccacttctgacacca
+novelMiR_488,novelMiR_265_1_3,novelMiR_265_1,Paralogues,aaaagtaattgtggtttctgcc
+novelMiR_265_1,novelMiR_6_44,novelMiR_6,Paralogues,aaaagtaatcgcagtttt
+novelMiR_463,novelMiR_7_2,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_110,novelMiR_7_3,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_269,novelMiR_7_4,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_106,novelMiR_7_5,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_215,novelMiR_7_6,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_166,novelMiR_7_7,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_437,novelMiR_7_8,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_288,novelMiR_7_9,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_372,novelMiR_7_10,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_476,novelMiR_7_11,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_410,novelMiR_7_12,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_203,novelMiR_7_13,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_341,novelMiR_7_14,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_307_1,novelMiR_7_15,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_265,novelMiR_7_16,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_462,novelMiR_7_17,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_348_1,novelMiR_7_18,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_78,novelMiR_7_19,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_468,novelMiR_7_20,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_360,novelMiR_7_21,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_304,novelMiR_7_22,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_96,novelMiR_7_23,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_276,novelMiR_7_24,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_8,novelMiR_7_25,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_20,novelMiR_7_26,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_418,novelMiR_7_27,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_272,novelMiR_7_28,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_152,novelMiR_7_29,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_341_1,novelMiR_7_30,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_332,novelMiR_7_31,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_193,novelMiR_7_32,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_155,novelMiR_7_33,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_330,novelMiR_7_34,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_144,novelMiR_7_35,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_185,novelMiR_7_36,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_233,novelMiR_7_37,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_335,novelMiR_7_38,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_316,novelMiR_7_39,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_299,novelMiR_7_40,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_184,novelMiR_7_41,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_385,novelMiR_7_42,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_213,novelMiR_7_43,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_163,novelMiR_7_44,novelMiR_7,Paralogues,caaaaatcgcaattacttt
+novelMiR_192,novelMiR_18_2,novelMiR_18,Paralogues,taggttatacaacataatg
+novelMiR_207,novelMiR_19_1,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_73,novelMiR_19_2,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_82_1,novelMiR_19_3,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_120_1,novelMiR_19_4,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_188,novelMiR_19_5,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_40_1,novelMiR_19_6,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_141,novelMiR_19_7,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_64,novelMiR_19_8,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_200_1,novelMiR_19_9,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_77,novelMiR_19_10,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_68_1,novelMiR_19_11,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_131_1,novelMiR_19_12,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_58,novelMiR_19_13,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_92_1,novelMiR_19_14,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_77_1,novelMiR_19_15,novelMiR_19,Paralogues,ttgcagactcactatgcacctgac
+novelMiR_115,novelMiR_23_2,novelMiR_23,Paralogues,atcccacttctgacacca
+novelMiR_75_1,novelMiR_23_3,novelMiR_23,Paralogues,atcccacttctgacacca
+novelMiR_8_1,novelMiR_23_4,novelMiR_23,Paralogues,atcccacttctgacacca
+novelMiR_80_1,novelMiR_23_5,novelMiR_23,Paralogues,atcccacttctgacacca
+novelMiR_76,novelMiR_23_6,novelMiR_23,Paralogues,atcccacttctgacacca
+novelMiR_5_1,novelMiR_23_7,novelMiR_23,Paralogues,atcccacttctgacacca
 novelMiR_1_1,novelMiR_23,novelMiR_23,"Same Seed, Xseed and loc",atcccacttctgacacca
-novelMiR_76,novelMiR_23-3,novelMiR_23-3,"Same Seed, Xseed and loc",atcccacttctgacacca
-novelMiR_76,novelMiR_23-4,novelMiR_23,Paralogues,atcccacttctgacacca
-novelMiR_80_1,novelMiR_23-3,novelMiR_23-3,"Same Seed, Xseed and loc",atcccacttctgacacca
-novelMiR_80_1,novelMiR_23-5,novelMiR_23,Paralogues,atcccacttctgacacca
-novelMiR_75_1,novelMiR_23-1,novelMiR_23-1,"Same Seed, Xseed and loc",atcccacttctgacacca
-novelMiR_75_1,novelMiR_23-6,novelMiR_23,Paralogues,atcccacttctgacacca
-novelMiR_23,novelMiR_81a,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_157_1,novelMiR_81b,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_301,novelMiR_81c,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_283_1,novelMiR_81d,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_205_1,novelMiR_81e,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_212,novelMiR_81f,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_248_1,novelMiR_81g,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_230_1,novelMiR_81h,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_293_1,novelMiR_81i,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_150_1,novelMiR_81j,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_414,novelMiR_81k,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_254,novelMiR_81l,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
-novelMiR_242,novelMiR_81m,novelMiR_81,Same Phylogenetic Tree,atcccacttctgccacc
+novelMiR_15_1,novelMiR_23,novelMiR_23,"Same Seed, Xseed and loc",atcccacttctgacacca
+novelMiR_10_1,novelMiR_23,novelMiR_23,"Same Seed, Xseed and loc",atcccacttctgacacca
+novelMiR_242,novelMiR_81_2,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_254,novelMiR_81_3,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_301,novelMiR_81_4,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_23,novelMiR_81_5,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_212,novelMiR_81_6,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_157_1,novelMiR_81_7,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_230_1,novelMiR_81_8,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_248_1,novelMiR_81_9,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_283_1,novelMiR_81_10,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_150_1,novelMiR_81_11,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_414,novelMiR_81_12,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_205_1,novelMiR_81_13,novelMiR_81,Paralogues,atcccacttctgccacc
+novelMiR_293_1,novelMiR_81_14,novelMiR_81,Paralogues,atcccacttctgccacc
 novelMiR_25,novelMiR_24,novelMiR_24,"Same Seed, Xseed and loc",tggctggctgctccgggcac
 novelMiR_16_1,novelMiR_24,novelMiR_24,"Same Seed, Xseed and loc",tggctggctgctccgggcac
 novelMiR_17_1,novelMiR_24,novelMiR_24,"Same Seed, Xseed and loc",tggctggctgctccgggcac
-novelMiR_191,novelMiR_26-1,novelMiR_26,Paralogues,ctcctggctggcttgcca
+novelMiR_191,novelMiR_26_1,novelMiR_26,Paralogues,ctcctggctggcttgcca
 novelMiR_128_1,novelMiR_205,novelMiR_205,"Same Seed, Xseed and loc",atcctggacgagccccca
-novelMiR_205,novelMiR_236a,novelMiR_236,Same Phylogenetic Tree,ttcctggctctctgttgcaca
-novelMiR_26,novelMiR_236b,novelMiR_236,Same Phylogenetic Tree,ttcctggctctctgttgcaca
-novelMiR_111,novelMiR_27-1,novelMiR_27,Paralogues,tctcgctggggcctcca
+novelMiR_26,novelMiR_236_1,novelMiR_236,Paralogues,ttcctggctctctgttgcaca
+novelMiR_205,novelMiR_236_2,novelMiR_236,Paralogues,ttcctggctctctgttgcaca
 novelMiR_2_1,novelMiR_27,novelMiR_27,"Same Seed, Xseed and loc",tctcgctggggcctcca
 novelMiR_0_1,novelMiR_27,novelMiR_27,"Same Seed, Xseed and loc",tctcgctggggcctcca
-novelMiR_9_1,novelMiR_27-2,novelMiR_27,Paralogues,tctcgctggggcctcca
-novelMiR_146,novelMiR_27-2,novelMiR_27-2,"Same Seed, Xseed and loc",tctcgctggggcctcca
-novelMiR_146,novelMiR_27-3,novelMiR_27,Paralogues,tctcgctggggcctcca
-novelMiR_95_1,novelMiR_27-2,novelMiR_27-2,"Same Seed, Xseed and loc",tctcgctggggcctcca
-novelMiR_95_1,novelMiR_27-4,novelMiR_27,Paralogues,tctcgctggggcctcca
-novelMiR_144_1,novelMiR_27-2,novelMiR_27-2,"Same Seed, Xseed and loc",tctcgctggggcctcca
-novelMiR_144_1,novelMiR_27-5,novelMiR_27,Paralogues,tctcgctggggcctcca
+novelMiR_144_1,novelMiR_27_1,novelMiR_27,Paralogues,tctcgctggggcctcca
 novelMiR_11_1,novelMiR_27,novelMiR_27,"Same Seed, Xseed and loc",tctcgctggggcctcca
-novelMiR_71_1,novelMiR_27-1,novelMiR_27-1,"Same Seed, Xseed and loc",tctcgctggggcctcca
-novelMiR_71_1,novelMiR_27-6,novelMiR_27,Paralogues,tctcgctggggcctcca
-novelMiR_7_1,novelMiR_27-1,novelMiR_27-1,"Same Seed, Xseed and loc",tctcgctggggcctcca
-novelMiR_7_1,novelMiR_27-7,novelMiR_27,Paralogues,tctcgctggggcctcca
+novelMiR_111,novelMiR_27_2,novelMiR_27,Paralogues,tctcgctggggcctcca
+novelMiR_7_1,novelMiR_27_3,novelMiR_27,Paralogues,tctcgctggggcctcca
+novelMiR_9_1,novelMiR_27_4,novelMiR_27,Paralogues,tctcgctggggcctcca
 novelMiR_18_1,novelMiR_27,novelMiR_27,"Same Seed, Xseed and loc",tctcgctggggcctcca
+novelMiR_95_1,novelMiR_27_5,novelMiR_27,Paralogues,tctcgctggggcctcca
+novelMiR_146,novelMiR_27_6,novelMiR_27,Paralogues,tctcgctggggcctcca
+novelMiR_71_1,novelMiR_27_7,novelMiR_27,Paralogues,tctcgctggggcctcca
 novelMiR_31,novelMiR_30,novelMiR_30,"Same Seed, Xseed and loc",atcatgtctggtggctccg
 novelMiR_14_1,novelMiR_33,novelMiR_33,"Same Seed, Xseed and loc",acccgcgccggactcaccg
+novelMiR_390,novelMiR_37_2,novelMiR_37,Paralogues,cactagaatgtgagctcc
+novelMiR_293,novelMiR_37_3,novelMiR_37,Paralogues,cactagaatgtgagctcc
 novelMiR_24_1,novelMiR_37,novelMiR_37,"Same Seed, Xseed and loc",cactagaatgtgagctcc
-novelMiR_293,novelMiR_37-1,novelMiR_37,Paralogues,cactagaatgtgagctcc
-novelMiR_390,novelMiR_37-2,novelMiR_37,Paralogues,cactagaatgtgagctcc
 novelMiR_121_1,novelMiR_123,novelMiR_123,"Same Seed, Xseed and loc",cactagattgtaagctcc
 novelMiR_363_1,novelMiR_454,novelMiR_454,"Same Seed, Xseed and loc",cactagattgtgagttcc
-novelMiR_123,novelMiR_37a,novelMiR_37,Same Phylogenetic Tree,cactagaatgtgagctcc
-novelMiR_454,novelMiR_37b,novelMiR_37,Same Phylogenetic Tree,cactagaatgtgagctcc
+novelMiR_123,novelMiR_37_4,novelMiR_37,Paralogues,cactagaatgtgagctcc
+novelMiR_454,novelMiR_37_5,novelMiR_37,Paralogues,cactagaatgtgagctcc
+novelMiR_217_1,novelMiR_38_2,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
+novelMiR_141_1,novelMiR_38_3,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
 novelMiR_25_1,novelMiR_38,novelMiR_38,"Same Seed, Xseed and loc",gtctacggccataccaccctgaac
-novelMiR_141_1,novelMiR_38-1,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
-novelMiR_217_1,novelMiR_38-2,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
-novelMiR_227,novelMiR_38-1,novelMiR_38-1,"Same Seed, Xseed and loc",gtctacggccataccaccctgaac
-novelMiR_227,novelMiR_38-3,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
-novelMiR_216_1,novelMiR_38-1,novelMiR_38-1,"Same Seed, Xseed and loc",gtctacggccataccaccctgaac
-novelMiR_216_1,novelMiR_38-4,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
-novelMiR_226,novelMiR_38-1,novelMiR_38-1,"Same Seed, Xseed and loc",gtctacggccataccaccctgaac
-novelMiR_226,novelMiR_38-5,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
-novelMiR_142_1,novelMiR_38-1,novelMiR_38-1,"Same Seed, Xseed and loc",gtctacggccataccaccctgaac
-novelMiR_142_1,novelMiR_38-6,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
+novelMiR_216_1,novelMiR_38_4,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
+novelMiR_142_1,novelMiR_38_5,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
+novelMiR_227,novelMiR_38_6,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
+novelMiR_226,novelMiR_38_7,novelMiR_38,Paralogues,gtctacggccataccaccctgaac
 novelMiR_45_1,novelMiR_42,novelMiR_42,"Same Seed, Xseed and loc",tcctcacacggggcacca
-novelMiR_310,novelMiR_43-1,novelMiR_43,Paralogues,ctgtcacgcgggagacc
 novelMiR_46_1,novelMiR_43,novelMiR_43,"Same Seed, Xseed and loc",ctgtcacgcgggagacc
-novelMiR_304_1,novelMiR_43-2,novelMiR_43,Paralogues,ctgtcacgcgggagacc
-novelMiR_51,novelMiR_45-1,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
+novelMiR_310,novelMiR_43_2,novelMiR_43,Paralogues,ctgtcacgcgggagacc
+novelMiR_304_1,novelMiR_43_3,novelMiR_43,Paralogues,ctgtcacgcgggagacc
+novelMiR_57_1,novelMiR_45_1,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
+novelMiR_290,novelMiR_45_2,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
+novelMiR_280_1,novelMiR_45_3,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
 novelMiR_51_1,novelMiR_45,novelMiR_45,"Same Seed, Xseed and loc",aaatggatttttggagcagggaga
-novelMiR_57_1,novelMiR_45-2,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
-novelMiR_280_1,novelMiR_45-3,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
-novelMiR_290,novelMiR_45-3,novelMiR_45-3,"Same Seed, Xseed and loc",aaatggatttttggagcagggaga
-novelMiR_290,novelMiR_45-4,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
-novelMiR_181,novelMiR_180-1,novelMiR_180,Paralogues,taatggactcaagttctgagccag
-novelMiR_114_1,novelMiR_180,novelMiR_180,"Same Seed, Xseed and loc",taatggactcaagttctgagccag
-novelMiR_176_1,novelMiR_180-2,novelMiR_180,Paralogues,taatggactcaagttctgagccag
+novelMiR_51,novelMiR_45_4,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
 novelMiR_175_1,novelMiR_180,novelMiR_180,"Same Seed, Xseed and loc",taatggactcaagttctgagccag
-novelMiR_180,novelMiR_45a,novelMiR_45,Same Phylogenetic Tree,aaatggatttttggagcagggaga
-novelMiR_160,novelMiR_48-1,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
-novelMiR_222,novelMiR_48-2,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
-novelMiR_194,novelMiR_48-3,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
-novelMiR_162,novelMiR_48-4,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
-novelMiR_161,novelMiR_48-5,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
+novelMiR_181,novelMiR_180_2,novelMiR_180,Paralogues,taatggactcaagttctgagccag
+novelMiR_114_1,novelMiR_180,novelMiR_180,"Same Seed, Xseed and loc",taatggactcaagttctgagccag
+novelMiR_176_1,novelMiR_180_3,novelMiR_180,Paralogues,taatggactcaagttctgagccag
+novelMiR_180,novelMiR_45_5,novelMiR_45,Paralogues,aaatggatttttggagcagggaga
+novelMiR_222,novelMiR_48_1,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
+novelMiR_161,novelMiR_48_2,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
+novelMiR_194,novelMiR_48_3,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
+novelMiR_160,novelMiR_48_4,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
+novelMiR_162,novelMiR_48_5,novelMiR_48,Paralogues,ttctgggctgtagtgcgc
 novelMiR_58_1,novelMiR_52,novelMiR_52,"Same Seed, Xseed and loc",agtggagagcatttgac
-novelMiR_54,novelMiR_53-1,novelMiR_53,Paralogues,ctcaataggattacgctgaggccc
-novelMiR_56,novelMiR_55-1,novelMiR_55,Paralogues,tgtcctgaagagaggtgatgac
+novelMiR_54,novelMiR_53_1,novelMiR_53,Paralogues,ctcaataggattacgctgaggccc
+novelMiR_56,novelMiR_55_2,novelMiR_55,Paralogues,tgtcctgaagagaggtgatgac
 novelMiR_63_1,novelMiR_59,novelMiR_59,"Same Seed, Xseed and loc",cagaggcctgcctggcc
-novelMiR_64_1,novelMiR_60,novelMiR_60,"Same Seed, Xseed and loc",aaggtagatagaacaggtct
 novelMiR_42_1,novelMiR_60,novelMiR_60,"Same Seed, Xseed and loc",aaggtagatagaacaggtct
+novelMiR_64_1,novelMiR_60,novelMiR_60,"Same Seed, Xseed and loc",aaggtagatagaacaggtct
+novelMiR_62,novelMiR_61,novelMiR_61,"Same Seed, Xseed and loc",tgaagcgcctgtgctctgccgaga
 novelMiR_66_1,novelMiR_61,novelMiR_61,"Same Seed, Xseed and loc",tgaagcgcctgtgctctgccgaga
 novelMiR_65_1,novelMiR_61,novelMiR_61,"Same Seed, Xseed and loc",tgaagcgcctgtgctctgccgaga
-novelMiR_62,novelMiR_61,novelMiR_61,"Same Seed, Xseed and loc",tgaagcgcctgtgctctgccgaga
-novelMiR_44_1,novelMiR_61,novelMiR_61,"Same Seed, Xseed and loc",tgaagcgcctgtgctctgccgaga
-novelMiR_43_1,novelMiR_61,novelMiR_61,"Same Seed, Xseed and loc",tgaagcgcctgtgctctgccgaga
+novelMiR_43_1,novelMiR_61_2,novelMiR_61,Paralogues,tgaagcgcctgtgctctgccgaga
+novelMiR_44_1,novelMiR_61_3,novelMiR_61,Paralogues,tgaagcgcctgtgctctgccgaga
 novelMiR_67_1,novelMiR_63,novelMiR_63,"Same Seed, Xseed and loc",gcggtgcaggccgagctg
+novelMiR_263,novelMiR_65_1,novelMiR_65,Paralogues,ctgactggctcagcgtgtgcc
 novelMiR_69_1,novelMiR_65,novelMiR_65,"Same Seed, Xseed and loc",ctgactggctcagcgtgtgcc
-novelMiR_263,novelMiR_65-1,novelMiR_65,Paralogues,ctgactggctcagcgtgtgcc
-novelMiR_65,novelMiR_221_1a,novelMiR_221_1,Same Phylogenetic Tree,gtgactgagctggacctg
-novelMiR_140,novelMiR_68a,novelMiR_68,Same Phylogenetic Tree,tcagtctttgtactctgagagca
-novelMiR_134,novelMiR_68b,novelMiR_68,Same Phylogenetic Tree,tcagtctttgtactctgagagca
-novelMiR_240,novelMiR_69-1,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_70,novelMiR_69-2,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_146_1,novelMiR_69-3,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_225_1,novelMiR_69-4,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_239,novelMiR_69-4,novelMiR_69-4,"Same Seed, Xseed and loc",ggagagaacgcggtctgagtgg
-novelMiR_239,novelMiR_69-5,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_224_1,novelMiR_69-3,novelMiR_69-3,"Same Seed, Xseed and loc",ggagagaacgcggtctgagtgg
-novelMiR_224_1,novelMiR_69-6,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_148_1,novelMiR_69-1,novelMiR_69-1,"Same Seed, Xseed and loc",ggagagaacgcggtctgagtgg
-novelMiR_148_1,novelMiR_69-7,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_226_1,novelMiR_69-1,novelMiR_69-1,"Same Seed, Xseed and loc",ggagagaacgcggtctgagtgg
-novelMiR_226_1,novelMiR_69-8,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_147_1,novelMiR_69-4,novelMiR_69-4,"Same Seed, Xseed and loc",ggagagaacgcggtctgagtgg
-novelMiR_147_1,novelMiR_69-9,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_238,novelMiR_69-3,novelMiR_69-3,"Same Seed, Xseed and loc",ggagagaacgcggtctgagtgg
-novelMiR_238,novelMiR_69-10,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
-novelMiR_78_1,novelMiR_74,novelMiR_74,"Same Seed, Xseed and loc",ctgctgtgatgacattc
+novelMiR_65,novelMiR_221_1_1,novelMiR_221_1,Paralogues,gtgactgagctggacctg
+novelMiR_134,novelMiR_68_1,novelMiR_68,Paralogues,tcagtctttgtactctgagagca
+novelMiR_140,novelMiR_68_2,novelMiR_68,Paralogues,tcagtctttgtactctgagagca
+novelMiR_226_1,novelMiR_69_1,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_224_1,novelMiR_69_2,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_239,novelMiR_69_3,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_148_1,novelMiR_69_4,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_225_1,novelMiR_69_5,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_147_1,novelMiR_69_6,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_146_1,novelMiR_69_7,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_238,novelMiR_69_8,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_240,novelMiR_69_9,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
+novelMiR_70,novelMiR_69_10,novelMiR_69,Paralogues,ggagagaacgcggtctgagtgg
 novelMiR_4_1,novelMiR_74,novelMiR_74,"Same Seed, Xseed and loc",ctgctgtgatgacattc
-novelMiR_74,novelMiR_204a,novelMiR_204,Same Phylogenetic Tree,ttgctgtggacatgaccata
-novelMiR_195,novelMiR_75-1,novelMiR_75,Paralogues,ttcggattgagccttctcc
-novelMiR_416,novelMiR_80a,novelMiR_80,Same Phylogenetic Tree,cggccgccgccgggcgc
-novelMiR_87_1,novelMiR_83,novelMiR_83,"Same Seed, Xseed and loc",ctgttggccggcgggctctc
+novelMiR_78_1,novelMiR_74,novelMiR_74,"Same Seed, Xseed and loc",ctgctgtgatgacattc
+novelMiR_74,novelMiR_204_2,novelMiR_204,Paralogues,ttgctgtggacatgaccata
+novelMiR_195,novelMiR_75_1,novelMiR_75,Paralogues,ttcggattgagccttctcc
+novelMiR_416,novelMiR_80_1,novelMiR_80,Paralogues,cggccgccgccgggcgc
 novelMiR_84,novelMiR_83,novelMiR_83,"Same Seed, Xseed and loc",ctgttggccggcgggctctc
+novelMiR_87_1,novelMiR_83,novelMiR_83,"Same Seed, Xseed and loc",ctgttggccggcgggctctc
 novelMiR_86_1,novelMiR_83,novelMiR_83,"Same Seed, Xseed and loc",ctgttggccggcgggctctc
 novelMiR_88_1,novelMiR_85,novelMiR_85,"Same Seed, Xseed and loc",gccactggagctccggcc
 novelMiR_60_1,novelMiR_85,novelMiR_85,"Same Seed, Xseed and loc",gccactggagctccggcc
-novelMiR_274,novelMiR_87-1,novelMiR_87,Paralogues,tttcggctcggaggaggc
-novelMiR_90_1,novelMiR_91a,novelMiR_91,Same Phylogenetic Tree,gttgcctcaatctgagcc
+novelMiR_274,novelMiR_87_1,novelMiR_87,Paralogues,tttcggctcggaggaggc
+novelMiR_90_1,novelMiR_91_2,novelMiR_91,Paralogues,gttgcctcaatctgagcc
 novelMiR_100_1,novelMiR_95,novelMiR_95,"Same Seed, Xseed and loc",aaccaatgatgtaatga
-novelMiR_107_1,novelMiR_97-1,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_164,novelMiR_97-2,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_336,novelMiR_97-3,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_343,novelMiR_97-4,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_331_1,novelMiR_97-4,novelMiR_97-4,"Same Seed, Xseed and loc",agtggcagtatcgtagc
-novelMiR_331_1,novelMiR_97-5,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_72_1,novelMiR_97-6,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_112,novelMiR_97-6,novelMiR_97-6,"Same Seed, Xseed and loc",agtggcagtatcgtagc
-novelMiR_112,novelMiR_97-7,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_321_1,novelMiR_97-3,novelMiR_97-3,"Same Seed, Xseed and loc",agtggcagtatcgtagc
-novelMiR_321_1,novelMiR_97-8,novelMiR_97,Paralogues,agtggcagtatcgtagc
-novelMiR_103_1,novelMiR_98,novelMiR_98,"Same Seed, Xseed and loc",ggccagttttgtctgatg
+novelMiR_164,novelMiR_97_2,novelMiR_97,Paralogues,agtggcagtatcgtagc
+novelMiR_107_1,novelMiR_97_3,novelMiR_97,Paralogues,agtggcagtatcgtagc
+novelMiR_343,novelMiR_97_4,novelMiR_97,Paralogues,agtggcagtatcgtagc
+novelMiR_336,novelMiR_97_5,novelMiR_97,Paralogues,agtggcagtatcgtagc
+novelMiR_112,novelMiR_97_6,novelMiR_97,Paralogues,agtggcagtatcgtagc
+novelMiR_331_1,novelMiR_97_7,novelMiR_97,Paralogues,agtggcagtatcgtagc
+novelMiR_72_1,novelMiR_97_8,novelMiR_97,Paralogues,agtggcagtatcgtagc
+novelMiR_321_1,novelMiR_97_9,novelMiR_97,Paralogues,agtggcagtatcgtagc
 novelMiR_6_1,novelMiR_98,novelMiR_98,"Same Seed, Xseed and loc",ggccagttttgtctgatg
+novelMiR_103_1,novelMiR_98,novelMiR_98,"Same Seed, Xseed and loc",ggccagttttgtctgatg
 novelMiR_105_1,novelMiR_100,novelMiR_100,"Same Seed, Xseed and loc",gatgcctgggagttgcgatc
 novelMiR_106_1,novelMiR_101,novelMiR_101,"Same Seed, Xseed and loc",tatactgaacagtgcacccga
-novelMiR_289,novelMiR_108-1,novelMiR_108,Paralogues,tgagtttgttctgaaatagaga
-novelMiR_374,novelMiR_109-1,novelMiR_109,Paralogues,tgtgagggcgatctggc
-novelMiR_278,novelMiR_109-2,novelMiR_109,Paralogues,tgtgagggcgatctggc
+novelMiR_289,novelMiR_108_2,novelMiR_108,Paralogues,tgagtttgttctgaaatagaga
+novelMiR_374,novelMiR_109_1,novelMiR_109,Paralogues,tgtgagggcgatctggc
+novelMiR_278,novelMiR_109_2,novelMiR_109,Paralogues,tgtgagggcgatctggc
 novelMiR_73_1,novelMiR_113,novelMiR_113,"Same Seed, Xseed and loc",tagaatgatgaggaaaa
 novelMiR_74_1,novelMiR_114,novelMiR_114,"Same Seed, Xseed and loc",aaagcaggattcagactacaa
 novelMiR_115_1,novelMiR_116,novelMiR_116,"Same Seed, Xseed and loc",gccgcggcgccgggactg
-novelMiR_116,novelMiR_32_1a,novelMiR_32_1,Same Phylogenetic Tree,tccgcggcggtggcggc
-novelMiR_406,novelMiR_120-1,novelMiR_120,Paralogues,atgcttagatctccccactgg
-novelMiR_298,novelMiR_120-2,novelMiR_120,Paralogues,atgcttagatctccccactgg
-novelMiR_484,novelMiR_124-1,novelMiR_124,Paralogues,tggtggtctagtggttagga
-novelMiR_346,novelMiR_124-2,novelMiR_124,Paralogues,tggtggtctagtggttagga
-novelMiR_126_1,novelMiR_125-1,novelMiR_125,Paralogues,atcccagacgagccccca
-novelMiR_188_1,novelMiR_125-2,novelMiR_125,Paralogues,atcccagacgagccccca
-novelMiR_196,novelMiR_125-1,novelMiR_125-1,"Same Seed, Xseed and loc",atcccagacgagccccca
-novelMiR_196,novelMiR_125-3,novelMiR_125,Paralogues,atcccagacgagccccca
-novelMiR_311,novelMiR_133-1,novelMiR_133,Paralogues,actcctcttgctcgtca
-novelMiR_305_1,novelMiR_133-2,novelMiR_133,Paralogues,actcctcttgctcgtca
-novelMiR_93_1,novelMiR_135a,novelMiR_135,Same Phylogenetic Tree,gtcccggcggagtcgca
-novelMiR_142,novelMiR_135b,novelMiR_135,Same Phylogenetic Tree,gtcccggcggagtcgca
-novelMiR_354,novelMiR_151a,novelMiR_151,Same Phylogenetic Tree,agtggttaggatttggc
+novelMiR_116,novelMiR_32_1_1,novelMiR_32_1,Paralogues,tccgcggcggtggcggc
+novelMiR_298,novelMiR_120_1,novelMiR_120,Paralogues,atgcttagatctccccactgg
+novelMiR_406,novelMiR_120_2,novelMiR_120,Paralogues,atgcttagatctccccactgg
+novelMiR_484,novelMiR_124_2,novelMiR_124,Paralogues,tggtggtctagtggttagga
+novelMiR_346,novelMiR_124_3,novelMiR_124,Paralogues,tggtggtctagtggttagga
+novelMiR_126_1,novelMiR_125_2,novelMiR_125,Paralogues,atcccagacgagccccca
+novelMiR_188_1,novelMiR_125_3,novelMiR_125,Paralogues,atcccagacgagccccca
+novelMiR_196,novelMiR_125_4,novelMiR_125,Paralogues,atcccagacgagccccca
+novelMiR_305_1,novelMiR_133_2,novelMiR_133,Paralogues,actcctcttgctcgtca
+novelMiR_311,novelMiR_133_3,novelMiR_133,Paralogues,actcctcttgctcgtca
+novelMiR_142,novelMiR_135_2,novelMiR_135,Paralogues,gtcccggcggagtcgca
+novelMiR_93_1,novelMiR_135_3,novelMiR_135,Paralogues,gtcccggcggagtcgca
+novelMiR_354,novelMiR_151_2,novelMiR_151,Paralogues,agtggttaggatttggc
 novelMiR_151_1,novelMiR_154,novelMiR_154,"Same Seed, Xseed and loc",ttggctggtctctgctccgcag
-novelMiR_130_1,novelMiR_34_1-1,novelMiR_34_1,Paralogues,ctggctgcgacatctgt
-novelMiR_34_1,novelMiR_154a,novelMiR_154,Same Phylogenetic Tree,ttggctggtctctgctccgcag
-novelMiR_262,novelMiR_165-1,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
-novelMiR_162_1,novelMiR_165-2,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
-novelMiR_259,novelMiR_165-3,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
-novelMiR_314,novelMiR_165-4,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
+novelMiR_130_1,novelMiR_34_1_1,novelMiR_34_1,Paralogues,ctggctgcgacatctgt
+novelMiR_34_1,novelMiR_154_1,novelMiR_154,Paralogues,ttggctggtctctgctccgcag
+novelMiR_162_1,novelMiR_165_1,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
+novelMiR_314,novelMiR_165_2,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
 novelMiR_159_1,novelMiR_165,novelMiR_165,"Same Seed, Xseed and loc",aagtttctctgaacgtgtagagc
-novelMiR_241,novelMiR_165-5,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
-novelMiR_435,novelMiR_165-4,novelMiR_165-4,"Same Seed, Xseed and loc",aagtttctctgaacgtgtagagc
-novelMiR_435,novelMiR_165-6,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
-novelMiR_324,novelMiR_168-1,novelMiR_168,Paralogues,cagttacagatcgaact
-novelMiR_333,novelMiR_174-1,novelMiR_174,Paralogues,gtcccatctgggtcgcca
+novelMiR_241,novelMiR_165_3,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
+novelMiR_435,novelMiR_165_4,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
+novelMiR_262,novelMiR_165_5,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
+novelMiR_259,novelMiR_165_6,novelMiR_165,Paralogues,aagtttctctgaacgtgtagagc
+novelMiR_324,novelMiR_168_1,novelMiR_168,Paralogues,cagttacagatcgaact
+novelMiR_333,novelMiR_174_2,novelMiR_174,Paralogues,gtcccatctgggtcgcca
 novelMiR_113_1,novelMiR_179,novelMiR_179,"Same Seed, Xseed and loc",cagcatgtttccaagggc
 novelMiR_174_1,novelMiR_179,novelMiR_179,"Same Seed, Xseed and loc",cagcatgtttccaagggc
 novelMiR_189_1,novelMiR_197,novelMiR_197,"Same Seed, Xseed and loc",ttcaggtcttggagacaaa
-novelMiR_317_1,novelMiR_198-1,novelMiR_198,Paralogues,ggctggtccgaaggtagtgagt
 novelMiR_127_1,novelMiR_198,novelMiR_198,"Same Seed, Xseed and loc",ggctggtccgaaggtagtgagt
+novelMiR_444,novelMiR_198_2,novelMiR_198,Paralogues,ggctggtccgaaggtagtgagt
 novelMiR_191_1,novelMiR_198,novelMiR_198,"Same Seed, Xseed and loc",ggctggtccgaaggtagtgagt
-novelMiR_322,novelMiR_198-2,novelMiR_198,Paralogues,ggctggtccgaaggtagtgagt
-novelMiR_444,novelMiR_198-1,novelMiR_198-1,"Same Seed, Xseed and loc",ggctggtccgaaggtagtgagt
-novelMiR_444,novelMiR_198-3,novelMiR_198,Paralogues,ggctggtccgaaggtagtgagt
-novelMiR_353_1,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
-novelMiR_344_1,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
-novelMiR_384_1,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
-novelMiR_356,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
+novelMiR_317_1,novelMiR_198_3,novelMiR_198,Paralogues,ggctggtccgaaggtagtgagt
+novelMiR_322,novelMiR_198_4,novelMiR_198,Paralogues,ggctggtccgaaggtagtgagt
 novelMiR_483,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
-novelMiR_345,novelMiR_198a,novelMiR_198,Same Phylogenetic Tree,ggctggtccgaaggtagtgagt
+novelMiR_344_1,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
+novelMiR_353_1,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
+novelMiR_356,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
+novelMiR_384_1,novelMiR_345,novelMiR_345,"Same Seed, Xseed and loc",ggctggtccgagtgcagtggtgt
+novelMiR_345,novelMiR_198_5,novelMiR_198,Paralogues,ggctggtccgaaggtagtgagt
 novelMiR_201_1,novelMiR_208,novelMiR_208,"Same Seed, Xseed and loc",ctcactgatgagtacgttctgac
-novelMiR_248,novelMiR_211-1,novelMiR_211,Paralogues,accatctgtgggattatgac
+novelMiR_248,novelMiR_211_1,novelMiR_211,Paralogues,accatctgtgggattatgac
 novelMiR_207_1,novelMiR_216,novelMiR_216,"Same Seed, Xseed and loc",cactctggactctgaatc
-novelMiR_220,novelMiR_219-1,novelMiR_219,Paralogues,agagcggaggactgtag
+novelMiR_220,novelMiR_219_2,novelMiR_219,Paralogues,agagcggaggactgtag
 novelMiR_214_1,novelMiR_224,novelMiR_224,"Same Seed, Xseed and loc",ttgagaggctctggctc
 novelMiR_215_1,novelMiR_225,novelMiR_225,"Same Seed, Xseed and loc",ccactgcttcacttgactag
 novelMiR_219_1,novelMiR_230,novelMiR_230,"Same Seed, Xseed and loc",gaggcactgactctcagggc
-novelMiR_253,novelMiR_231-1,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
-novelMiR_261,novelMiR_231-2,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
-novelMiR_302,novelMiR_231-3,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
-novelMiR_232,novelMiR_231-4,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
-novelMiR_432,novelMiR_237-1,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
-novelMiR_303_1,novelMiR_237-2,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
-novelMiR_309,novelMiR_237-1,novelMiR_237-1,"Same Seed, Xseed and loc",gtagtcgtggccgagtggttaagg
-novelMiR_309,novelMiR_237-3,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
-novelMiR_199_1,novelMiR_237-1,novelMiR_237-1,"Same Seed, Xseed and loc",gtagtcgtggccgagtggttaagg
-novelMiR_199_1,novelMiR_237-4,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
+novelMiR_232,novelMiR_231_1,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
+novelMiR_261,novelMiR_231_2,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
+novelMiR_302,novelMiR_231_3,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
+novelMiR_253,novelMiR_231_4,novelMiR_231,Paralogues,cgcttctcggccttttggctaag
+novelMiR_309,novelMiR_237_1,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
+novelMiR_199_1,novelMiR_237_2,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
+novelMiR_303_1,novelMiR_237_3,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
+novelMiR_432,novelMiR_237_4,novelMiR_237,Paralogues,gtagtcgtggccgagtggttaagg
 novelMiR_233_1,novelMiR_244,novelMiR_244,"Same Seed, Xseed and loc",accggtctctagtagtgc
 novelMiR_242_1,novelMiR_251,novelMiR_251,"Same Seed, Xseed and loc",ccgcggccggggcgggc
 novelMiR_243_1,novelMiR_252,novelMiR_252,"Same Seed, Xseed and loc",tcacacgcgaaaggtccccgg
@@ -389,123 +301,108 @@ novelMiR_250_1,novelMiR_255,novelMiR_255,"Same Seed, Xseed and loc",gctaaatttgac
 novelMiR_251_1,novelMiR_256,novelMiR_256,"Same Seed, Xseed and loc",taacaacatttttctga
 novelMiR_252_1,novelMiR_257,novelMiR_257,"Same Seed, Xseed and loc",gccgagcacgcgggtctg
 novelMiR_361,novelMiR_270,novelMiR_270,"Same Seed, Xseed and loc",agtggtagaattctcgcc
-novelMiR_378,novelMiR_271-1,novelMiR_271,Paralogues,tcccactgcttcacttgactag
-novelMiR_274_1,novelMiR_271-2,novelMiR_271,Paralogues,tcccactgcttcacttgactag
-novelMiR_260_1,novelMiR_271-1,novelMiR_271-1,"Same Seed, Xseed and loc",tcccactgcttcacttgactag
-novelMiR_260_1,novelMiR_271-3,novelMiR_271,Paralogues,tcccactgcttcacttgactag
-novelMiR_179_1,novelMiR_271-1,novelMiR_271-1,"Same Seed, Xseed and loc",tcccactgcttcacttgactag
-novelMiR_179_1,novelMiR_271-4,novelMiR_271,Paralogues,tcccactgcttcacttgactag
+novelMiR_378,novelMiR_271_2,novelMiR_271,Paralogues,tcccactgcttcacttgactag
+novelMiR_280,novelMiR_271_3,novelMiR_271,Paralogues,tcccactgcttcacttgactag
+novelMiR_179_1,novelMiR_271_4,novelMiR_271,Paralogues,tcccactgcttcacttgactag
+novelMiR_274_1,novelMiR_271_5,novelMiR_271,Paralogues,tcccactgcttcacttgactag
 novelMiR_362,novelMiR_271,novelMiR_271,"Same Seed, Xseed and loc",tcccactgcttcacttgactag
-novelMiR_280,novelMiR_271-1,novelMiR_271-1,"Same Seed, Xseed and loc",tcccactgcttcacttgactag
-novelMiR_280,novelMiR_271-5,novelMiR_271,Paralogues,tcccactgcttcacttgactag
-novelMiR_272_1,novelMiR_279,novelMiR_279,"Same Seed, Xseed and loc",ctgattgtcacgttctgat
+novelMiR_260_1,novelMiR_271_6,novelMiR_271,Paralogues,tcccactgcttcacttgactag
+novelMiR_259_1,novelMiR_279,novelMiR_279,"Same Seed, Xseed and loc",ctgattgtcacgttctgat
 novelMiR_375,novelMiR_279,novelMiR_279,"Same Seed, Xseed and loc",ctgattgtcacgttctgat
 novelMiR_178_1,novelMiR_279,novelMiR_279,"Same Seed, Xseed and loc",ctgattgtcacgttctgat
-novelMiR_259_1,novelMiR_279,novelMiR_279,"Same Seed, Xseed and loc",ctgattgtcacgttctgat
-novelMiR_379,novelMiR_281,novelMiR_281,"Same Seed, Xseed and loc",agtagattgtatagtta
-novelMiR_261_1,novelMiR_281,novelMiR_281,"Same Seed, Xseed and loc",agtagattgtatagtta
-novelMiR_387,novelMiR_282-1,novelMiR_282,Paralogues,attggaagacactctgcgacag
-novelMiR_275_1,novelMiR_282,novelMiR_282,"Same Seed, Xseed and loc",attggaagacactctgcgacag
+novelMiR_272_1,novelMiR_279,novelMiR_279,"Same Seed, Xseed and loc",ctgattgtcacgttctgat
 novelMiR_380,novelMiR_282,novelMiR_282,"Same Seed, Xseed and loc",attggaagacactctgcgacag
-novelMiR_281_1,novelMiR_282-2,novelMiR_282,Paralogues,attggaagacactctgcgacag
-novelMiR_291,novelMiR_282-1,novelMiR_282-1,"Same Seed, Xseed and loc",attggaagacactctgcgacag
-novelMiR_291,novelMiR_282-3,novelMiR_282,Paralogues,attggaagacactctgcgacag
-novelMiR_181_1,novelMiR_282,novelMiR_282,"Same Seed, Xseed and loc",attggaagacactctgcgacag
 novelMiR_262_1,novelMiR_282,novelMiR_282,"Same Seed, Xseed and loc",attggaagacactctgcgacag
-novelMiR_383,novelMiR_285,novelMiR_285,"Same Seed, Xseed and loc",accgggtgctgtaggct
+novelMiR_181_1,novelMiR_282,novelMiR_282,"Same Seed, Xseed and loc",attggaagacactctgcgacag
+novelMiR_291,novelMiR_282_2,novelMiR_282,Paralogues,attggaagacactctgcgacag
+novelMiR_387,novelMiR_282_3,novelMiR_282,Paralogues,attggaagacactctgcgacag
+novelMiR_281_1,novelMiR_282_4,novelMiR_282,Paralogues,attggaagacactctgcgacag
+novelMiR_275_1,novelMiR_282,novelMiR_282,"Same Seed, Xseed and loc",attggaagacactctgcgacag
+novelMiR_383,novelMiR_285_2,novelMiR_285,Paralogues,accgggtgctgtaggct
+novelMiR_266_1,novelMiR_285,novelMiR_285,"Same Seed, Xseed and loc",accgggtgctgtaggct
 novelMiR_278_1,novelMiR_285,novelMiR_285,"Same Seed, Xseed and loc",accgggtgctgtaggct
 novelMiR_184_1,novelMiR_285,novelMiR_285,"Same Seed, Xseed and loc",accgggtgctgtaggct
-novelMiR_266_1,novelMiR_285,novelMiR_285,"Same Seed, Xseed and loc",accgggtgctgtaggct
-novelMiR_267_1,novelMiR_287,novelMiR_287,"Same Seed, Xseed and loc",actaacgaggagggacc
 novelMiR_279_1,novelMiR_287,novelMiR_287,"Same Seed, Xseed and loc",actaacgaggagggacc
+novelMiR_267_1,novelMiR_287,novelMiR_287,"Same Seed, Xseed and loc",actaacgaggagggacc
 novelMiR_388,novelMiR_292,novelMiR_292,"Same Seed, Xseed and loc",ttggaggatgaaagtac
 novelMiR_282_1,novelMiR_300,novelMiR_300,"Same Seed, Xseed and loc",tattaataattattgtcac
 novelMiR_292_1,novelMiR_300,novelMiR_300,"Same Seed, Xseed and loc",tattaataattattgtcac
 novelMiR_413,novelMiR_300,novelMiR_300,"Same Seed, Xseed and loc",tattaataattattgtcac
-novelMiR_196_1,novelMiR_306,novelMiR_306,"Same Seed, Xseed and loc",gtttccgtagtgtagtggtcatc
 novelMiR_427,novelMiR_306,novelMiR_306,"Same Seed, Xseed and loc",gtttccgtagtgtagtggtcatc
-novelMiR_85_1,novelMiR_306-1,novelMiR_306,Paralogues,gtttccgtagtgtagtggtcatc
-novelMiR_119_1,novelMiR_306-2,novelMiR_306,Paralogues,gtttccgtagtgtagtggtcatc
-novelMiR_426,novelMiR_306-3,novelMiR_306,Paralogues,gtttccgtagtgtagtggtcatc
+novelMiR_119_1,novelMiR_306_2,novelMiR_306,Paralogues,gtttccgtagtgtagtggtcatc
+novelMiR_85_1,novelMiR_306_3,novelMiR_306,Paralogues,gtttccgtagtgtagtggtcatc
+novelMiR_426,novelMiR_306_4,novelMiR_306,Paralogues,gtttccgtagtgtagtggtcatc
+novelMiR_196_1,novelMiR_306,novelMiR_306,"Same Seed, Xseed and loc",gtttccgtagtgtagtggtcatc
 novelMiR_429,novelMiR_307,novelMiR_307,"Same Seed, Xseed and loc",agtgtagtatctgttct
 novelMiR_301_1,novelMiR_307,novelMiR_307,"Same Seed, Xseed and loc",agtgtagtatctgttct
 novelMiR_431,novelMiR_308,novelMiR_308,"Same Seed, Xseed and loc",gtggttatcacgttcgcc
 novelMiR_438,novelMiR_317,novelMiR_317,"Same Seed, Xseed and loc",taaaaaccgtgactacttc
-novelMiR_317,novelMiR_220_1a,novelMiR_220_1,Same Phylogenetic Tree,caaaaactgtgattacttt
 novelMiR_442,novelMiR_320,novelMiR_320,"Same Seed, Xseed and loc",tctgtaccctcacctcacccag
-novelMiR_366_1,novelMiR_326,novelMiR_326,"Same Seed, Xseed and loc",tcggctgtgtatctctgtgcc
-novelMiR_314_1,novelMiR_326,novelMiR_326,"Same Seed, Xseed and loc",tcggctgtgtatctctgtgcc
 novelMiR_456,novelMiR_326,novelMiR_326,"Same Seed, Xseed and loc",tcggctgtgtatctctgtgcc
-novelMiR_370_1,novelMiR_329,novelMiR_329,"Same Seed, Xseed and loc",agaggctgtttctgagc
-novelMiR_327_1,novelMiR_329,novelMiR_329,"Same Seed, Xseed and loc",agaggctgtttctgagc
+novelMiR_314_1,novelMiR_326,novelMiR_326,"Same Seed, Xseed and loc",tcggctgtgtatctctgtgcc
+novelMiR_366_1,novelMiR_326,novelMiR_326,"Same Seed, Xseed and loc",tcggctgtgtatctctgtgcc
 novelMiR_459,novelMiR_329,novelMiR_329,"Same Seed, Xseed and loc",agaggctgtttctgagc
+novelMiR_370_1,novelMiR_329,novelMiR_329,"Same Seed, Xseed and loc",agaggctgtttctgagc
 novelMiR_340_1,novelMiR_329,novelMiR_329,"Same Seed, Xseed and loc",agaggctgtttctgagc
+novelMiR_327_1,novelMiR_329,novelMiR_329,"Same Seed, Xseed and loc",agaggctgtttctgagc
 novelMiR_320_1,novelMiR_334,novelMiR_334,"Same Seed, Xseed and loc",cctataagaatctaatgcc
 novelMiR_467,novelMiR_334,novelMiR_334,"Same Seed, Xseed and loc",cctataagaatctaatgcc
 novelMiR_374_1,novelMiR_334,novelMiR_334,"Same Seed, Xseed and loc",cctataagaatctaatgcc
-novelMiR_345_1,novelMiR_338,novelMiR_338,"Same Seed, Xseed and loc",ccctggggttctgaggaca
+novelMiR_345_1,novelMiR_338_1,novelMiR_338,Paralogues,ccctggggttctgaggaca
 novelMiR_325_1,novelMiR_338,novelMiR_338,"Same Seed, Xseed and loc",ccctggggttctgaggaca
 novelMiR_473,novelMiR_338,novelMiR_338,"Same Seed, Xseed and loc",ccctggggttctgaggaca
 novelMiR_381_1,novelMiR_344,novelMiR_344,"Same Seed, Xseed and loc",atggatagcgcattgga
 novelMiR_332_1,novelMiR_344,novelMiR_344,"Same Seed, Xseed and loc",atggatagcgcattgga
 novelMiR_352,novelMiR_344,novelMiR_344,"Same Seed, Xseed and loc",atggatagcgcattgga
-novelMiR_195_1,novelMiR_20_1a,novelMiR_20_1,Same Phylogenetic Tree,gccgagactagagtcacatcc
-novelMiR_61_1,novelMiR_22_1-1,novelMiR_22_1,Paralogues,ccataccaccctgaacgc
+novelMiR_195_1,novelMiR_20_1_1,novelMiR_20_1,Paralogues,gccgagactagagtcacatcc
+novelMiR_61_1,novelMiR_22_1_1,novelMiR_22_1,Paralogues,ccataccaccctgaacgc
 novelMiR_55_1,novelMiR_54_1,novelMiR_54_1,"Same Seed, Xseed and loc",tcgcgggctgcggtcgggcccg
-novelMiR_187_1,novelMiR_81_1-1,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_412,novelMiR_81_1-2,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_122_1,novelMiR_81_1-3,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_380_1,novelMiR_81_1-4,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_330_1,novelMiR_81_1-4,novelMiR_81_1-4,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_330_1,novelMiR_81_1-5,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_417,novelMiR_81_1-6,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_208_1,novelMiR_81_1-7,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_295_1,novelMiR_81_1-6,novelMiR_81_1-6,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_295_1,novelMiR_81_1-8,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_393,novelMiR_81_1-9,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_436,novelMiR_81_1-10,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_104_1,novelMiR_81_1-11,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_478,novelMiR_81_1-4,novelMiR_81_1-4,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_478,novelMiR_81_1-12,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_249_1,novelMiR_81_1-13,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_152_1,novelMiR_81_1-14,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_240_1,novelMiR_81_1-15,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_291_1,novelMiR_81_1-2,novelMiR_81_1-2,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_291_1,novelMiR_81_1-16,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_300_1,novelMiR_81_1-17,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_285_1,novelMiR_81_1-6,novelMiR_81_1-6,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_285_1,novelMiR_81_1-18,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_164_1,novelMiR_81_1-19,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_232_1,novelMiR_81_1-20,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_409,novelMiR_81_1-21,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_425,novelMiR_81_1-17,novelMiR_81_1-17,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_425,novelMiR_81_1-22,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_228_1,novelMiR_81_1-23,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_351,novelMiR_81_1-4,novelMiR_81_1-4,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_351,novelMiR_81_1-24,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_290_1,novelMiR_81_1-21,novelMiR_81_1-21,"Same Seed, Xseed and loc",tgcaaaaataattgtggttt
-novelMiR_290_1,novelMiR_81_1-25,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_204_1,novelMiR_81_1-26,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
-novelMiR_137_1,novelMiR_89_1a,novelMiR_89_1,Same Phylogenetic Tree,cacggaggccaaggacc
-novelMiR_108_1,novelMiR_91_1-1,novelMiR_91_1,Paralogues,accccattgatcgccaggg
-novelMiR_41_1,novelMiR_91_1-2,novelMiR_91_1,Paralogues,accccattgatcgccaggg
-novelMiR_239_1,novelMiR_99_1-1,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
-novelMiR_271_1,novelMiR_99_1-2,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
-novelMiR_185_1,novelMiR_99_1-3,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
-novelMiR_160_1,novelMiR_99_1-4,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
-novelMiR_155_1,novelMiR_112_1-1,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
-novelMiR_117_1,novelMiR_112_1-2,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
-novelMiR_123_1,novelMiR_112_1-3,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
-novelMiR_161_1,novelMiR_112_1-4,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
-novelMiR_140_1,novelMiR_133_1-1,novelMiR_133_1,Paralogues,gcggtggcgcgtgcctgtagtcc
-novelMiR_372_1,novelMiR_134_1-1,novelMiR_134_1,Paralogues,gagagtcgtcggggtttcc
-novelMiR_464,novelMiR_134_1-2,novelMiR_134_1,Paralogues,gagagtcgtcggggtttcc
+novelMiR_285_1,novelMiR_81_1_1,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_208_1,novelMiR_81_1_2,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_122_1,novelMiR_81_1_3,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_393,novelMiR_81_1_4,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_412,novelMiR_81_1_5,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_425,novelMiR_81_1_6,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_291_1,novelMiR_81_1_7,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_409,novelMiR_81_1_8,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_351,novelMiR_81_1_9,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_330_1,novelMiR_81_1_10,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_240_1,novelMiR_81_1_11,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_380_1,novelMiR_81_1_12,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_290_1,novelMiR_81_1_13,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_152_1,novelMiR_81_1_14,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_228_1,novelMiR_81_1_15,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_300_1,novelMiR_81_1_16,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_478,novelMiR_81_1_17,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_295_1,novelMiR_81_1_18,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_249_1,novelMiR_81_1_19,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_104_1,novelMiR_81_1_20,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_417,novelMiR_81_1_21,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_164_1,novelMiR_81_1_22,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_204_1,novelMiR_81_1_23,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_187_1,novelMiR_81_1_24,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_436,novelMiR_81_1_25,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_232_1,novelMiR_81_1_26,novelMiR_81_1,Paralogues,tgcaaaaataattgtggttt
+novelMiR_137_1,novelMiR_89_1_1,novelMiR_89_1,Paralogues,cacggaggccaaggacc
+novelMiR_41_1,novelMiR_91_1_1,novelMiR_91_1,Paralogues,accccattgatcgccaggg
+novelMiR_108_1,novelMiR_91_1_2,novelMiR_91_1,Paralogues,accccattgatcgccaggg
+novelMiR_271_1,novelMiR_99_1_1,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
+novelMiR_160_1,novelMiR_99_1_2,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
+novelMiR_185_1,novelMiR_99_1_3,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
+novelMiR_239_1,novelMiR_99_1_4,novelMiR_99_1,Paralogues,ctggtcaacatagcgagac
+novelMiR_161_1,novelMiR_112_1_1,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
+novelMiR_117_1,novelMiR_112_1_2,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
+novelMiR_155_1,novelMiR_112_1_3,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
+novelMiR_123_1,novelMiR_112_1_4,novelMiR_112_1,Paralogues,gagttctgggctgtagtgc
+novelMiR_140_1,novelMiR_133_1_1,novelMiR_133_1,Paralogues,gcggtggcgcgtgcctgtagtcc
+novelMiR_464,novelMiR_134_1_1,novelMiR_134_1,Paralogues,gagagtcgtcggggtttcc
+novelMiR_372_1,novelMiR_134_1_2,novelMiR_134_1,Paralogues,gagagtcgtcggggtttcc
 novelMiR_206_1,novelMiR_134_1,novelMiR_134_1,"Same Seed, Xseed and loc",gagagtcgtcggggtttcc
-novelMiR_47_1,novelMiR_156_1a,novelMiR_156_1,Same Phylogenetic Tree,gttctgggctgtagtgc
-novelMiR_167_1,novelMiR_158_1-1,novelMiR_158_1,Paralogues,tagtgagttatctcaat
-novelMiR_376_1,novelMiR_229_1a,novelMiR_229_1,Same Phylogenetic Tree,cccctgggctgttactgt
+novelMiR_47_1,novelMiR_156_1_1,novelMiR_156_1,Paralogues,gttctgggctgtagtgc
+novelMiR_167_1,novelMiR_158_1_1,novelMiR_158_1,Paralogues,tagtgagttatctcaat
+novelMiR_376_1,novelMiR_229_1_1,novelMiR_229_1,Paralogues,cccctgggctgttactgt
 novelMiR_256_1,novelMiR_257_1,novelMiR_257_1,"Same Seed, Xseed and loc",cgggcggcggggcggggc
-novelMiR_257_1,novelMiR_355_1a,novelMiR_355_1,Same Phylogenetic Tree,agggcggcggcggcggc
+novelMiR_257_1,novelMiR_355_1_1,novelMiR_355_1,Paralogues,agggcggcggcggcggc
 novelMiR_376,novelMiR_273_1,novelMiR_273_1,"Same Seed, Xseed and loc",ttagagcatgatggcggc
 novelMiR_419,novelMiR_296_1,novelMiR_296_1,"Same Seed, Xseed and loc",cactgagacgagcgggagcg
 novelMiR_430,novelMiR_302_1,novelMiR_302_1,"Same Seed, Xseed and loc",ttcgttggcgctttatag
@@ -513,28 +410,28 @@ novelMiR_433,novelMiR_306_1,novelMiR_306_1,"Same Seed, Xseed and loc",gcctgagaaa
 novelMiR_362_1,novelMiR_312_1,novelMiR_312_1,"Same Seed, Xseed and loc",gctggaactacagacgcc
 novelMiR_455,novelMiR_313_1,novelMiR_313_1,"Same Seed, Xseed and loc",aattacagattgtctcagaga
 novelMiR_364_1,novelMiR_313_1,novelMiR_313_1,"Same Seed, Xseed and loc",aattacagattgtctcagaga
-novelMiR_309_1,novelMiR_323_1-1,novelMiR_323_1,Paralogues,gcgggcgggcgggcggcg
+novelMiR_309_1,novelMiR_323_1_1,novelMiR_323_1,Paralogues,gcgggcgggcgggcggcg
 novelMiR_324_1,novelMiR_323_1,novelMiR_323_1,"Same Seed, Xseed and loc",gcgggcgggcgggcggcg
 novelMiR_59_1,novelMiR_37_1,novelMiR_37_1,"Same Seed, Xseed and loc",ttgcaagcaacactctgtggca
-novelMiR_415,novelMiR_255_1-1,novelMiR_255_1,Paralogues,gcagggtcgggcctggt
 novelMiR_371,novelMiR_255_1,novelMiR_255_1,"Same Seed, Xseed and loc",gcagggtcgggcctggt
-novelMiR_470,novelMiR_255_1-2,novelMiR_255_1,Paralogues,gcagggtcgggcctggt
-novelMiR_311_1,novelMiR_310_1-1,novelMiR_310_1,Paralogues,aaagggatccaaggattgaa
+novelMiR_470,novelMiR_255_1_1,novelMiR_255_1,Paralogues,gcagggtcgggcctggt
+novelMiR_415,novelMiR_255_1_2,novelMiR_255_1,Paralogues,gcagggtcgggcctggt
+novelMiR_311_1,novelMiR_310_1_1,novelMiR_310_1,Paralogues,aaagggatccaaggattgaa
 novelMiR_346_1,novelMiR_334_1,novelMiR_334_1,"Same Seed, Xseed and loc",accagaagagctgccctg
 novelMiR_377_1,novelMiR_335_1,novelMiR_335_1,"Same Seed, Xseed and loc",cggagctgtgtgcatctc
 novelMiR_352_1,novelMiR_342_1,novelMiR_342_1,"Same Seed, Xseed and loc",gtagtagcccgtaggggc
-novelMiR_355,novelMiR_343_1,novelMiR_343_1,"Same Seed, Xseed and loc",cagagaatagtttaaattagaatc
 novelMiR_382_1,novelMiR_343_1,novelMiR_343_1,"Same Seed, Xseed and loc",cagagaatagtttaaattagaatc
+novelMiR_355,novelMiR_343_1,novelMiR_343_1,"Same Seed, Xseed and loc",cagagaatagtttaaattagaatc
 novelMiR_354_1,novelMiR_357,novelMiR_357,"Same Seed, Xseed and loc",gcggcggcggcggcggcggcgggg
 novelMiR_447,novelMiR_358_1,novelMiR_358_1,"Same Seed, Xseed and loc",accagaccactagacct
 novelMiR_370,novelMiR_369,novelMiR_369,"Same Seed, Xseed and loc",tgacctcgccgcccctctgga
-novelMiR_394,novelMiR_389-1,novelMiR_389,Paralogues,taccaccctgaacgcgcccga
-novelMiR_465,novelMiR_389-2,novelMiR_389,Paralogues,taccaccctgaacgcgcccga
-novelMiR_428,novelMiR_397a,novelMiR_397,Same Phylogenetic Tree,aggcgctcgcgaggaccg
-novelMiR_421,novelMiR_398-1,novelMiR_398,Paralogues,tgtcaccccattgatcgcc
+novelMiR_465,novelMiR_389_1,novelMiR_389,Paralogues,taccaccctgaacgcgcccga
+novelMiR_394,novelMiR_389_2,novelMiR_389,Paralogues,taccaccctgaacgcgcccga
+novelMiR_428,novelMiR_397_1,novelMiR_397,Paralogues,aggcgctcgcgaggaccg
 novelMiR_399,novelMiR_398,novelMiR_398,"Same Seed, Xseed and loc",tgtcaccccattgatcgcc
-novelMiR_491,novelMiR_398-2,novelMiR_398,Paralogues,tgtcaccccattgatcgcc
-novelMiR_420,novelMiR_398-3,novelMiR_398,Paralogues,tgtcaccccattgatcgcc
+novelMiR_421,novelMiR_398_1,novelMiR_398,Paralogues,tgtcaccccattgatcgcc
+novelMiR_420,novelMiR_398_2,novelMiR_398,Paralogues,tgtcaccccattgatcgcc
+novelMiR_491,novelMiR_398_3,novelMiR_398,Paralogues,tgtcaccccattgatcgcc
 novelMiR_451,novelMiR_450,novelMiR_450,"Same Seed, Xseed and loc",gcaagaaagtgagactctgcc
 novelMiR_373_1,novelMiR_466,novelMiR_466,"Same Seed, Xseed and loc",tagacacaagggtttgt
 novelMiR_480,novelMiR_479,novelMiR_479,"Same Seed, Xseed and loc",taggacttgcttctcagcggc
