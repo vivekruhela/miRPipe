@@ -75,8 +75,8 @@ if (rna_type == 'miRNA') {
 	output_mir <- (subset(input_mir,input_mir$padj <= 0.05,select=cts...1.))
 
 	# Saving results
-	write.table(file='piRNA_significantly_DE_mir.csv', x=output_mir,quote=FALSE,row.names=FALSE,col.names=FALSE)
-	cat('Final the results are saved in piRNA_significantly_DE_mir.csv ')
+	write.table(file='significantly_DE_piRNA.csv', x=output_mir,quote=FALSE,row.names=FALSE,col.names=FALSE)
+	cat('Final the results are saved in significantly_DE_piRNA.csv ')
 
 }
 	

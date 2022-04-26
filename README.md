@@ -34,15 +34,11 @@ miRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinfor
                      |----- multi_classc_matrix_performance.csv
            |----- Sample_list.csv
 |----- CLL_results
-          |----- miRNA_significantly_DE_mir.csv
-          |----- miRNA_DEmir_Res.tsv
-          |----- miRNA_DEmir_Counts.tsv
-          |----- mir_reannotation.csv
-          |----- counts_final_1.csv
+          |----- diff_exp_miRNAs_expression_counts.csv
+          |----- final_diff_exp_miRNAs.csv
+          |----- miRNA_expression_counts.csv
           |----- piRNA_raw_counts.csv
-          |----- piRNA_significantly_DE_mir.csv
-          |----- miRNA_DEmir_Counts_1.csv
-          |----- counts_final_novel_mir_new_names.csv
+          |----- significantly_DE_piRNA.csv
 |----- LICENSE
 |----- refs
          |----- pirnadb
@@ -164,7 +160,9 @@ After successfully running the docker execution command, open firefox browser, a
 localhost:8880/mirpipe
 ```
 Jupyter Notebook environment will be opened in Firefox browser.
-Enter the PASSWORD mentioned in above command, by default it is set to- password
+Enter the PASSWORD mentioned in above command, by default it is set to- password. 
+
+Now you can run the miRPipe from mirpipe_pipeline.ipynb notebook or check the synthetic data experiments from mirpipe_synthetic.ipynb notebook.
 
 ## Tutorial
 We have also developed the tutorial [Tutorial.md](Tutorial.md) with screenshots to help users who are running this docker first time.
@@ -270,29 +268,22 @@ Please note that, in `sample_list.csv`, it is absolutely a must to sort all the 
 
 ### Output Files
 
-The miRPipe pipeline generates total 9 output files:
+The miRPipe pipeline generates total 5 output files in the output directory:
 
-1. `miRNA_significantly_DE_mir.csv` : This file contains the list of significantly differentially expressed miRNAs (Location: In the same directory where all fastq files are stored).
+1. `final_diff_exp_miRNAs.csv` : This file contains the list of significantly differentially expressed miRNAs along with fold change, new names (in case of novel miRNAs), adjusted p-value, and their genomic locations.
 
-2. `miRNA_DEmir_Res.tsv`  : This file contains significantly differentially expressed miRNA along with p_adj values (Location: In the same directory where all fastq files are stored).
+2. `diff_exp_miRNAs_expression_counts.csv`  : This file contains expression counts of significantly differentially expressed miRNAs.
 
-3. `miRNA_DEmir_Counts.tsv` : This file contains counts of significantly differentially expressed miRNAs in all samples (Location: In the same directory where all fastq files are stored).
+3. `miRNA_expression_counts.csv` : This file contains the raw expression counts of miRNAs in all samples before differential expression analysis.
 
-4. `mir_reannotation.csv` : This file contains results from functional annotation modules (Location: In the same directory where all fastq files are stored).
+4. `piRNA_raw_counts.csv` :  This file contains raw counts of all piRNAs ontained from all samples before differential expression analysis.
 
-5. `counts_final_1.csv` : This file contains all miRNAs raw counts obtained form all samples before differential expression analysis (Location: In the same directory where all fastq files are stored).
+5. `significantly_DE_piRNA.csv` : This file contains the list  of all significantly differentially expressed piRNAs.
 
-6. `piRNA_raw_counts.csv` :  This file contains raw counts of all piRNAs ontained from all samples before differential expression analysis (Location: `piRNA/piRNA_raw_counts.csv`).
-
-7. `piRNA_significantly_DE_mir.csv` : This file contains the list  of all significantly differentially expressed piRNAs (Location: `piRNA/piRNA_significantly_DE_mir.csv`).
-
-8. `counts_final_novel_mir_new_names.csv` : This file consists the new putative names of identified novel miRNAs according to miRBase nomenclature system.
-
-9. `miRNA_DEmir_Counts_1.csv` : This file contains the counts of novel miRNAs only with new putative names.
 
 ## References
 
-1. Ruhela, V., Gupta, R., Krishnamachari, S., Ahuja, G., Gupta, A.:vivekruhela/miRSim v1.0.0 (Version v1.0.0). Zenodo.https://doi.org/10.5281/zenodo.4560585 (2021
+1. Ruhela, V., Gupta, R., Krishnamachari, S., Ahuja, G., Gupta, A.:vivekruhela/miRSim v1.0.0 (Version v1.0.0). Zenodo.https://doi.org/10.5281/zenodo.4560585 (2021)
 2. Kaur, Gurvinder, et al. "RNA-Seq profiling of deregulated miRs in CLL and their impact on clinical outcome." Blood cancer journal 10.1 (2020): 1-9.
 
 ## 7. Authors
