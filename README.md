@@ -10,29 +10,6 @@ miRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinfor
 
 ## Project Structure
 ```
-|----- Demo_data
-           |----- exp1_50K
-                     |----- synthetic_data_50K.fastq.gz
-                     |----- mirna2.csv
-                     |----- novel_mirna2.csv
-                     |----- pirna2.csv
-                     |----- multi_class_c_matrix.csv
-                     |----- multi_classc_matrix_performance.csv
-           |----- exp2_0.1M
-                     |----- synthetic_data_0.1M.fastq.gz
-                     |----- mirna2.csv
-                     |----- novel_mirna2.csv
-                     |----- pirna2.csv
-                     |----- multi_class_c_matrix.csv
-                     |----- multi_classc_matrix_performance.csv
-           |----- exp3_1M
-                     |----- synthetic_data_1M.fastq.gz
-                     |----- mirna2.csv
-                     |----- novel_mirna2.csv
-                     |----- pirna2.csv
-                     |----- multi_class_c_matrix.csv
-                     |----- multi_classc_matrix_performance.csv
-           |----- Sample_list.csv
 |----- CLL_results
           |----- diff_exp_miRNAs_expression_counts.csv
           |----- final_diff_exp_miRNAs.csv
@@ -173,7 +150,7 @@ For demonstration purpose, we are running these experiments only one time for ea
 The accuracy and F1-score of 1 run is close to the average accuracy and F1-score shown in the table-4 of the main manuscript.
 
 ### Data Generation for Synthetic Data Experiments
-We have used [miRSim](https://github.com/vivekruhela/miRSim)[1] tool to generate the synthetic data. The sample data files generated for demo are available in `Demo_data` directory. 
+We have used [miRSim](https://github.com/vivekruhela/miRSim)[1] tool to generate the synthetic data.
 
 For the sake of completion, we have also provided the commands below for synthetic data generation using miRSim tool in case any user would like to generate synthatic data on their own.
 
@@ -262,7 +239,7 @@ Sample_C   Sample_C.fastq.gz    treated
    .              .                .
    .              .                .
 ```
-Please note that, in `sample_list.csv`, it is absolutely a must to sort all the sample name alphanumerically. This is necessary because the final count file generated at the end of pipeline (and before differential expression analysis) have all the columns sorted in alpha-numerically ascending order. The order of columns in final count matrix generated in the end of pipeline and order in samples in `sample_list.csv` must be same in order to conduct correct differential expression analysis. The example screenshot `sample_list.csv` file (located in Demo_data) for CLL data is shown below:
+Please note that, in `sample_list.csv`, it is absolutely a must to sort all the sample name alphanumerically. This is necessary because the final count file generated at the end of pipeline (and before differential expression analysis) have all the columns sorted in alpha-numerically ascending order. The order of columns in final count matrix generated in the end of pipeline and order in samples in `sample_list.csv` must be same in order to conduct correct differential expression analysis. The example screenshot `sample_list.csv` file for CLL data is shown below:
 
 ![Screenshot for Sample_list csv file](Figures/Sample_list.png)
 
