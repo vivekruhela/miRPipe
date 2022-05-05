@@ -34,14 +34,11 @@ miRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinfor
 |----- geckodriver.log
 |----- get-pip.py
 |----- miRPipe_Flowchart.png
-|-----|----- miRPipe_synthetic.ipynb (for synthetic data experiments)*
-      |----- miRPipe_pipeline.ipynb (complete pipeline)
+|----- miRPipe_pipeline.ipynb (complete pipeline)
 |----- notebook.sh
 |----- README.md
 |----- requirements.txt
 |----- Tutorial.md
-
-*: This notebook will be used only for synthetic data experiments.
 ```
 
 ## Running the RNA-SEQ Pipeline
@@ -139,7 +136,7 @@ localhost:8880/mirpipe
 Jupyter Notebook environment will be opened in Firefox browser.
 Enter the PASSWORD mentioned in above command, by default it is set to- password. 
 
-Now you can run the miRPipe from mirpipe_pipeline.ipynb notebook or check the synthetic data experiments from mirpipe_synthetic.ipynb notebook.
+Now you can run the miRPipe from mirpipe_pipeline.ipynb notebook.
 
 ## Tutorial
 We have also developed the tutorial [Tutorial.md](Tutorial.md) with screenshots to help users who are running this docker first time.
@@ -220,10 +217,6 @@ The miRPipe pipeline performance for 1 run of synthetic data experiments are as 
 [//]: <> (#### For 50K Read Depth Synthetic Data Experiments)
 [//]: <> (<img src="Figures/50K_overall.png" width="200" height="200"/> <img src="Figures/1L_overall.png" width="200" height="200"/><img src="Figures/10L_overall.png" width="200" height="200"/>)
 
-### Output Files
-For each run of `miRPipe_synthetic.ipynb`, two output files will be generated:
-1. `multi_class_c_matrix.csv`: This files contains sequence counts for each category of RNAs.
-2. `multi_classc_matrix_performance.csv`: This file contains all the performance matrics for miRPipe pipeline.
 
 ## (B) CLL Data Experiments
 
