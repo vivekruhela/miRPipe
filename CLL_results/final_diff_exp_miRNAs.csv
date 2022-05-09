@@ -35,6 +35,6 @@ novelMiR_216,hsa-mir-12139*,cactctggactctgaatc,24.9865058763553,up,0.00000
 novelMiR_23_1,hsa-mir-12137*,acgagactctggcatgctaac,21.6792191737384,up,0.00365
 novelMiR_255,hsa-mir-12141*,gctaaatttgactggct,22.7384437938311,up,0.00021
 novelMiR_344,hsa-mir-12140*,atggatagcgcattgga,10.9287507761854,up,0.00000
-novelMiR_43;novelMiR_43_2,hsa-mir-12144*,ctgtcacgcgggagacc,23.9005346724398,up,0.00000
-novelMiR_45;novelMiR_45_2;novelMiR_45_1,hsa-mir-12143*,aaatggatttttggagcagggaga,20.7216061800942,up,0.00000
+novelMiR_43;novelMiR_43_2,hsa-mir-12144*;hsa-mir-12144_1*,ctgtcacgcgggagacc,23.9005346724398,up,0.00000
+novelMiR_45;novelMiR_45_2;novelMiR_45_1,hsa-mir-12143*;hsa-mir-12143_1*;hsa-mir-12143_2*,aaatggatttttggagcagggaga,20.7216061800942,up,0.00000
 novelMiR_90,hsa-mir-12138*,aggctgtgatgattggc,6.80930172076281,up,0.00611
