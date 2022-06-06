@@ -230,7 +230,7 @@ The miRPipe pipeline generates total 5 output files in the output directory:
 
 ## References
 
-1. Ruhela, V., Gupta, R., Krishnamachari, S., Ahuja, G., Gupta, A.:vivekruhela/miRSim v1.0.0 (Version v1.0.0). Zenodo.https://zenodo.org/record/6546356#.Yp3qKdJByV4 (2021)
+1. Ruhela, V., Gupta, R., Krishnamachari, S., Ahuja, G., Gupta, A.:vivekruhela/miRSim v1.0.0 (Version v1.0.0). [Zenodo](https://zenodo.org/record/6546356#.Yp3qKdJByV4) (2021)
 2. Kaur, Gurvinder, et al. "RNA-Seq profiling of deregulated miRs in CLL and their impact on clinical outcome." Blood cancer journal 10.1 (2020): 1-9.
 
 ## 7. Authors
