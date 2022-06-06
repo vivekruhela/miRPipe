@@ -79,29 +79,6 @@ docker pull docker.io/vivekruhela/mirpipe
 
 ```
 
-```diff
-- For reviewers
-```
-The following login credentials and command can be used to pull the private docker image. This docker image will converted into public repository after successfully tested by reviewers.
-
-```diff
-+ User ID: vivekruhela
-+ Password : iiitdelhi123
-
-Commands:
-1. If you are already logged into your docker accout then logout with the help of following account:
-
-docker logout
-
-2. First you need to login to docker hub using above credentials with the help of following command.
-
-docker login -u vivekruhela
-
-3. After successful login. you can pull the miRPipe docker image using following command:
-
-docker pull docker.io/vivekruhela/mirpipe
-```
-
 # Execution of docker
 
 To run the docker with administration rights, run the following command at terminal.
