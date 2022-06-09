@@ -68,7 +68,7 @@ sudo apt-get update
 sudo apt-get install docker-ce
 ```
 
-### Build Docker
+### Pull miRPipe docker image
 After installing the docker, docker build is required to get the docker running.
 
 To build, run the follwing command
