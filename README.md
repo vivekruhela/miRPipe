@@ -227,15 +227,20 @@ The miRPipe pipeline generates total 5 output files in the output directory:
 
 5. `significantly_DE_piRNA.csv` : This file contains the list  of all significantly differentially expressed piRNAs.
 
+## Citation
+If you use miRPipe for your research, please kindly cite the following paper:
+
+"miRPipe: A Unified Computational Framework for a Robust, Reliable, and Reproducible Identification of Novel miRNAs from the RNA Sequencing Data" 
+
+Vivek Ruhela, Anubha Gupta, Sriram K., Gaurav Ahuja, Gurvinder Kaur, and Ritu Gupta
+
+Frontiers in Bioinformatics (2022)
 
 ## References
 
 1. Ruhela, V., Gupta, R., Krishnamachari, S., Ahuja, G., Gupta, A.:vivekruhela/miRSim v1.0.0 (Version v1.0.0). [Zenodo](https://zenodo.org/record/6546356#.Yp3qKdJByV4) (2021)
 2. Kaur, Gurvinder, et al. "RNA-Seq profiling of deregulated miRs in CLL and their impact on clinical outcome." Blood cancer journal 10.1 (2020): 1-9.
 
-## 7. Authors
-
-* **Vivek Ruhela** - *Initial work* - [github](https://github.com/vivekruhela)
 
 
 ## 8. License
