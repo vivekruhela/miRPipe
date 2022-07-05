@@ -1,6 +1,6 @@
 # miRPipe: Open source RNA-Seq bioinformatics analysis docker for identification of miRNAs and piRNAs
 
-![Graphical Abstract of miRPipe](Figures/miRPipe_Flowchart.png)
+![Graphical Abstract of miRPipe](Figures/R1_miRPIpe_final.jpg)
 
 *Figure-1: In the pipeline flowchart, there are 9 steps. In synthetic data experiments, the last step (step-9: differential expression analysis) is not included. However in the CLL data experiments, we have included the last step where both treated and untreated samples are available.*
 
