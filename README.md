@@ -230,11 +230,8 @@ The miRPipe pipeline generates total 5 output files in the output directory:
 ## Citation
 If you use miRPipe for your research, please kindly cite the following paper:
 
-"miRPipe: A Unified Computational Framework for a Robust, Reliable, and Reproducible Identification of Novel miRNAs from the RNA Sequencing Data" 
+Ruhela, V., Gupta, A., Krishnamachari, S., Ahuja, G., Kaur, G. and Gupta, R., miRPipe: A Unified Computational Framework for a Robust, Reliable, and Reproducible Identification of Novel miRNAs from the RNA Sequencing Data. Frontiers in Bioinformatics, p.71. DOI: https://doi.org/10.3389/fbinf.2022.84205
 
-Vivek Ruhela, Anubha Gupta, Sriram K., Gaurav Ahuja, Gurvinder Kaur, and Ritu Gupta
-
-Frontiers in Bioinformatics (2022)
 
 ## References
 
