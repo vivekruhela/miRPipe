@@ -228,7 +228,7 @@ The miRPipe pipeline generates total 5 output files in the output directory:
 5. `significantly_DE_piRNA.csv` : This file contains the list  of all significantly differentially expressed piRNAs.
 
 ## Citation
-If you use miRPipe for your research, please kindly cite the following paper:
+If you use miRPipe for your research, please cite the following paper:
 
 Ruhela, V., Gupta, A., Krishnamachari, S., Ahuja, G., Kaur, G. and Gupta, R., miRPipe: A Unified Computational Framework for a Robust, Reliable, and Reproducible Identification of Novel miRNAs from the RNA Sequencing Data. Frontiers in Bioinformatics, p.71. DOI: https://doi.org/10.3389/fbinf.2022.84205
 
