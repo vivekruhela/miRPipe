@@ -1,0 +1,5 @@
+sample,fastq,condition,batch
+CLL_untreated_01,/absolute/path/CLL_untreated_01.fastq.gz,untreated,batch1
+CLL_untreated_02,/absolute/path/CLL_untreated_02.fastq.gz,untreated,batch1
+CLL_treated_01,/absolute/path/CLL_treated_01.fastq.gz,treated,batch1
+CLL_treated_02,/absolute/path/CLL_treated_02.fastq.gz,treated,batch1

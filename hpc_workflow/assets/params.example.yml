@@ -1,0 +1,29 @@
+samplesheet: /absolute/path/samplesheet.csv
+outdir: /absolute/path/mirpipe_results
+
+run_mirna: true
+run_pirna: true
+run_deseq2: true
+run_rfam: false
+
+adapter: TCGTATGCCGTCTTCTGCTTG
+genome: hg38
+
+# Defaults below point inside docker.io/vivekruhela/mirpipe:latest.
+# Replace them when using a locally managed, version-pinned reference bundle.
+mirdeep_jar: /miRPipe/Tools/MDS_command_line_v38/MDS_command_line/MD.jar
+mirdeep_genome_dir: /miRPipe/Tools/MDS_command_line_v38/MDS_command_line/genome
+mirdeep_parameter_p: 20
+known_mature_fasta: /miRPipe/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/mature.fa
+known_mirna_gff: /miRPipe/Tools/MDS_command_line_v38/MDS_command_line/genome/hg38/miRBase/knownMiR.gff3
+bowtie_index: /miRPipe/refs/hg38/hg38
+pirna_gff: ../refs/pirnadb/pirnadb.hg38.gff3.gz
+rfam_cm: /miRPipe/refs/Rfam.cm
+
+design: "~ batch + condition"
+contrast: condition,treated,untreated
+min_count: 10
+min_samples: 2
+alpha: 0.05
+
+container: docker.io/vivekruhela/mirpipe:latest
