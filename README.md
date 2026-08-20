@@ -50,6 +50,8 @@ miRPipe is the integrated, user-friendly jupyter notebook based RNA-Seq bioinfor
 
 ## Running the RNA-SEQ Pipeline
 
+For step-by-step instructions, use the [miRPipe user guide](wiki/Home.md). It covers both the Docker/Jupyter workflow and the automated HPC/SLURM workflow, including a shared four-sample example, troubleshooting, and a reproducibility checklist.
+
 ### Automated HPC/SLURM workflow
 
 For non-interactive, resumable cohort analysis, use the new [miRPipe-HPC Nextflow workflow](hpc_workflow/README.md). It adds sample-sheet validation, parallel SLURM execution, Apptainer/Docker support, `-resume`, MultiQC and execution provenance, local sequence/locus annotation, configurable DESeq2 designs, and an explicit miRPipe2 roadmap. The original notebook is retained for backward compatibility and published-result comparison.
