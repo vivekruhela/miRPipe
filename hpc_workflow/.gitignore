@@ -1,0 +1,9 @@
+.nextflow*
+.apptainer/
+__pycache__/
+*.py[cod]
+work/
+results/
+logs/
+params.yml
+samplesheet.csv
