@@ -245,6 +245,8 @@ If you use miRPipe for your research, please cite the following paper:
 
 Ruhela, V., Gupta, A., Krishnamachari, S., Ahuja, G., Kaur, G. and Gupta, R., miRPipe: A Unified Computational Framework for a Robust, Reliable, and Reproducible Identification of Novel miRNAs from the RNA Sequencing Data. Frontiers in Bioinformatics, p.71. DOI: https://doi.org/10.3389/fbinf.2022.842051
 
+## Website
+More detailed information about miRPipe workflow is available at https://vivekruhela.github.io/miRPipe/
 
 ## References
 
